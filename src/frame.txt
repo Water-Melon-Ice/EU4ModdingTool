@@ -1,0 +1,1 @@
+frame definition in line 2121 in ambient_objects.txt
