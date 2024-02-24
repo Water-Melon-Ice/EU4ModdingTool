@@ -1,0 +1,440 @@
+Gatu_sea_area = {
+ 1 2 3 4 5 9 15 
+}
+
+Xityah_sea_area = {
+ 16 18 29 30 33 35 40 43 45 47 48 52 
+}
+
+Wubalewyik_sea_area = {
+ 53 59 67 70 74 76 77 81 83 88 95 98 100 102 103 
+}
+
+Vomeqe_sea_area = {
+ 130 142 158 169 208 
+}
+
+Quyyadoztav_sea_area = {
+ 210 212 221 226 228 229 232 233 239 245 247 256 259 
+}
+
+Fego_sea_area = {
+ 262 263 267 277 286 290 292 
+}
+
+Hipude_sea_area = {
+ 294 295 296 297 299 304 307 
+}
+
+Sizreciwgosi_sea_area = {
+ 309 313 315 316 317 320 321 325 326 329 334 
+}
+
+Vajya_sea_area = {
+ 335 336 341 342 344 353 360 
+}
+
+Givuyfi_sea_area = {
+ 364 377 378 382 402 405 410 427 428 
+}
+
+Lulvidkulka_sea_area = {
+ 432 435 436 445 452 
+}
+
+Jixoqyiy_sea_area = {
+ 457 481 
+}
+
+Jabukki_area = {
+ 0 6 7 8 
+}
+
+Jerzincirse_area = {
+ 10 11 12 13 14 
+}
+
+Nufkuxco_area = {
+ 17 19 20 
+}
+
+Vixyifavcakir_area = {
+ 21 22 23 24 
+}
+
+Penpecsuzfu_area = {
+ 25 26 27 28 
+}
+
+Sevki_area = {
+ 31 32 34 36 
+}
+
+Toygevsum_area = {
+ 37 38 39 41 
+}
+
+Gemoyyugul_area = {
+ 42 44 46 
+}
+
+Mogas_area = {
+ 49 50 51 
+}
+
+Jenaqmop_area = {
+ 54 55 56 
+}
+
+Fingehra_area = {
+ 57 58 60 
+}
+
+Yiyadwec_area = {
+ 61 62 63 
+}
+
+Daxwuq_area = {
+ 64 65 66 68 
+}
+
+Dogefohsuf_area = {
+ 69 71 72 73 
+}
+
+Feyjudu_area = {
+ 75 78 79 
+}
+
+Nadanuno_area = {
+ 80 82 84 
+}
+
+Hehhunyopiy_area = {
+ 85 86 87 89 90 
+}
+
+Ruyafe_area = {
+ 91 92 93 94 96 
+}
+
+Sarowo_area = {
+ 97 99 101 104 105 
+}
+
+Codayiqux_area = {
+ 106 107 108 
+}
+
+Pecu_area = {
+ 109 110 111 112 
+}
+
+Zixiniya_area = {
+ 113 114 115 116 117 
+}
+
+Pefit_area = {
+ 118 119 120 121 
+}
+
+Kivhete_area = {
+ 122 123 124 
+}
+
+Xeqfuzrif_area = {
+ 125 126 127 128 129 
+}
+
+Teyuyi_area = {
+ 131 132 133 134 135 
+}
+
+Dowavba_area = {
+ 136 137 138 139 140 
+}
+
+Sagiwdimes_area = {
+ 141 143 144 145 
+}
+
+Cajew_area = {
+ 146 147 148 149 150 
+}
+
+Zawjege_area = {
+ 151 152 153 
+}
+
+Noxyecake_area = {
+ 154 155 156 157 
+}
+
+Vasolin_area = {
+ 159 160 161 162 
+}
+
+Wepzu_area = {
+ 163 164 165 166 167 
+}
+
+Ca_area = {
+ 168 170 171 
+}
+
+Natsocefey_area = {
+ 172 173 174 175 176 
+}
+
+Zuponoqta_area = {
+ 177 178 179 180 
+}
+
+Hipimox_area = {
+ 181 182 183 184 
+}
+
+Riblisorut_area = {
+ 185 186 187 
+}
+
+Vigajlinep_area = {
+ 188 189 190 191 
+}
+
+Vuni_area = {
+ 192 193 194 195 196 
+}
+
+Nudnaqfeq_area = {
+ 197 198 199 200 201 
+}
+
+Sokjewtoghi_area = {
+ 202 203 204 
+}
+
+Geyuz_area = {
+ 205 206 207 
+}
+
+Muxusso_area = {
+ 209 211 213 214 215 
+}
+
+Gapum_area = {
+ 216 217 218 219 220 
+}
+
+Vaxxu_area = {
+ 222 223 224 225 
+}
+
+Dodfoshucpiw_area = {
+ 227 230 231 234 
+}
+
+Vekxor_area = {
+ 235 236 237 238 240 
+}
+
+Rogzivuw_area = {
+ 241 242 243 
+}
+
+Yibumeqpur_area = {
+ 244 246 248 249 
+}
+
+Livcojfosuco_area = {
+ 250 251 252 253 
+}
+
+Futjo_area = {
+ 254 255 257 
+}
+
+Fohniqxu_area = {
+ 258 260 261 264 265 
+}
+
+Bojaqegkih_area = {
+ 266 268 269 270 
+}
+
+Sayyuhomha_area = {
+ 271 272 273 274 275 
+}
+
+Mosetof_area = {
+ 276 278 279 280 
+}
+
+Yavefodri_area = {
+ 281 282 283 284 
+}
+
+Fuwa_area = {
+ 285 287 288 289 291 
+}
+
+Fibsacuv_area = {
+ 293 298 300 301 
+}
+
+Giqbo_area = {
+ 302 303 305 
+}
+
+Dohiwa_area = {
+ 306 308 310 
+}
+
+Hu_area = {
+ 311 312 314 318 
+}
+
+Kilyinfodci_area = {
+ 319 322 323 
+}
+
+Figkejmu_area = {
+ 324 327 328 
+}
+
+Xosim_area = {
+ 330 331 332 333 337 
+}
+
+Gubadzu_area = {
+ 338 339 340 343 
+}
+
+Hifule_area = {
+ 345 346 347 348 349 
+}
+
+Huzgorwu_area = {
+ 350 351 352 354 
+}
+
+Daluxdirit_area = {
+ 355 356 357 358 
+}
+
+Biryidsi_area = {
+ 359 361 362 
+}
+
+Lezmogrirbetlu_area = {
+ 363 365 366 
+}
+
+Badjokkedzux_area = {
+ 367 368 369 370 
+}
+
+Kotguqut_area = {
+ 371 372 373 
+}
+
+Pawufaltoz_area = {
+ 374 375 376 379 
+}
+
+Mevyine_area = {
+ 380 381 383 384 385 
+}
+
+Rar_area = {
+ 386 387 388 389 390 
+}
+
+Qavi_area = {
+ 391 392 393 394 
+}
+
+Wiludaf_area = {
+ 395 396 397 398 
+}
+
+Nenute_area = {
+ 399 400 401 403 
+}
+
+Xequsgodibig_area = {
+ 404 406 407 408 
+}
+
+Gavowubhaw_area = {
+ 409 411 412 413 414 
+}
+
+Yoyildat_area = {
+ 415 416 417 
+}
+
+Geyurwawpus_area = {
+ 418 419 420 421 
+}
+
+Sozomux_area = {
+ 422 423 424 425 
+}
+
+Samekem_area = {
+ 426 429 430 
+}
+
+Yoni_area = {
+ 431 433 434 437 438 
+}
+
+Sicijcut_area = {
+ 439 440 441 442 
+}
+
+Hipzi_area = {
+ 443 444 446 
+}
+
+Tos_area = {
+ 447 448 449 450 451 
+}
+
+Burnozes_area = {
+ 453 454 455 456 
+}
+
+Zekqayibfax_area = {
+ 458 459 460 461 462 
+}
+
+Noydafu_area = {
+ 463 464 465 466 
+}
+
+Muxife_area = {
+ 467 468 469 470 471 
+}
+
+Vuzmahaqi_area = {
+ 472 473 474 
+}
+
+Xil_area = {
+ 475 476 477 478 479 
+}
+
+Bidqiksoqyod_area = {
+ 480 482 483 484 485 
+}
+
+Cuwizhih_area = {
+ 486 487 488 489 490 
+}
+
+Quvkexiwisdaw_area = {
+ 491 492 
+}
+

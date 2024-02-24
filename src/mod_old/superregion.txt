@@ -1,0 +1,43 @@
+Ha_superregion = {
+ Towa_region
+ Zoyarvuv_region
+ Jodzezxede_region
+ Hofxarap_region
+ Yul_region
+}
+
+Qajabbek_superregion = {
+ Fucunozey_region
+ Voyuv_region
+ Werexqadad_region
+ Fiqamwetud_region
+ Zayoxcal_region
+}
+
+Cunolror_superregion = {
+ Tixavfos_region
+ Cujejupqus_region
+ Mirel_region
+ Pabrikva_region
+}
+
+Zalpunijsu_superregion = {
+ Tixocjocxu_region
+ Suyahqutpe_region
+ Sahsofxal_region
+}
+
+Mumibyey_superregion = {
+ Ciqvogvatif_region
+ Jifatalib_region
+ Tawubelmu_region
+ Cikfulkep_region
+ Mupa_region
+}
+
+Zupwo_superregion = {
+ Qequ_region
+ Gucuyqiboz_region
+ Xukbucog_region
+}
+

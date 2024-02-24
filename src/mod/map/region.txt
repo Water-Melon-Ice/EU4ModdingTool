@@ -1,0 +1,5071 @@
+Vonazbok_sea_region = {
+ areas = {
+ Tuqzirozaz_sea_area
+ Gidjelha_sea_area
+ Huwewepox_sea_area
+ Lemhopdac_sea_area
+ Rowofop_sea_area
+ Jabxax_sea_area
+ Pamwikugteb_sea_area
+ Xumu_sea_area
+ Fodsufo_sea_area
+ Gexkemuc_sea_area
+ Bojxemhalro_sea_area
+ }
+}
+
+Firtatwaba_sea_region = {
+ areas = {
+ Luxespe_sea_area
+ Ramuhosse_sea_area
+ Biqjubiho_sea_area
+ Winerakpi_sea_area
+ Perxipi_sea_area
+ Pidveki_sea_area
+ Topdo_sea_area
+ Yufu_sea_area
+ }
+}
+
+Qevhebma_sea_region = {
+ areas = {
+ Saqgu_sea_area
+ Yaguke_sea_area
+ Texicroz_sea_area
+ Vufoclahnu_sea_area
+ Jomwoylocwipac_sea_area
+ Qossezeka_sea_area
+ }
+}
+
+Qavsab_sea_region = {
+ areas = {
+ Ximerwawol_sea_area
+ Mesucfiw_sea_area
+ Pastofut_sea_area
+ Tilipodvaj_sea_area
+ Yobimalwodfe_sea_area
+ Rusejecix_sea_area
+ Vuqvufa_sea_area
+ Likzobfahan_sea_area
+ Foppuligu_sea_area
+ }
+}
+
+Fapuz_sea_region = {
+ areas = {
+ Pewu_sea_area
+ Kosokpimi_sea_area
+ Luhrijedoq_sea_area
+ Dihiyuziz_sea_area
+ Xucnaxkepojop_sea_area
+ Zuzejay_sea_area
+ Bizorpi_sea_area
+ Movfo_sea_area
+ Vucmuqgeva_sea_area
+ Zotog_sea_area
+ Vuvsub_sea_area
+ Vocjaboxa_sea_area
+ }
+}
+
+Tuweki_sea_region = {
+ areas = {
+ Ya_sea_area
+ Mepazko_sea_area
+ Qenuxoz_sea_area
+ Kaysubla_sea_area
+ Nucmortepe_sea_area
+ Mutlahqiyyu_sea_area
+ Qekbaxxeh_sea_area
+ }
+}
+
+Jicdosland_sea_region = {
+ areas = {
+ Lehedxoj_sea_area
+ Nabipohe_sea_area
+ Runesqaju_sea_area
+ Qemivwij_sea_area
+ Zihubad_sea_area
+ Cawar_sea_area
+ }
+}
+
+Fembaljanoc_sea_region = {
+ areas = {
+ Sejemaw_sea_area
+ Didvu_sea_area
+ Vupposfe_sea_area
+ Xuyjevin_sea_area
+ Wugovib_sea_area
+ }
+}
+
+Wubmo_sea_region = {
+ areas = {
+ Josquxo_sea_area
+ Ginyi_sea_area
+ Guwepiwetcit_sea_area
+ Bovemve_sea_area
+ Nogtuzwepwu_sea_area
+ Jajwettev_sea_area
+ Bolboye_sea_area
+ }
+}
+
+Hitmuv_sea_region = {
+ areas = {
+ Pe_sea_area
+ Xogat_sea_area
+ Qevuz_sea_area
+ Widcov_sea_area
+ Qeqhedexek_sea_area
+ Kupirir_sea_area
+ Nejkomavtun_sea_area
+ Gijmuyaqo_sea_area
+ Qapzi_sea_area
+ Yuknug_sea_area
+ Mewlow_sea_area
+ }
+}
+
+Momadland_sea_region = {
+ areas = {
+ Kavinsoyxi_sea_area
+ Bunwakro_sea_area
+ Xabamit_sea_area
+ Cisega_sea_area
+ Zecalvaco_sea_area
+ Zufijtahil_sea_area
+ Jihonapqev_sea_area
+ Yegas_sea_area
+ Fivmobcep_sea_area
+ Doyxijge_sea_area
+ Hetxonkajyuq_sea_area
+ Cottizyefa_sea_area
+ Gennopmaf_sea_area
+ }
+}
+
+Nuxo_sea_region = {
+ areas = {
+ Zirtepu_sea_area
+ Noplibizku_sea_area
+ Wuziypewe_sea_area
+ Duhdeb_sea_area
+ Fano_sea_area
+ Bersiya_sea_area
+ Hazutsarsen_sea_area
+ Nidtozi_sea_area
+ Ticwa_sea_area
+ Cevayxik_sea_area
+ Kocayuxxix_sea_area
+ }
+}
+
+Laxgibog_sea_region = {
+ areas = {
+ Fezu_sea_area
+ Qaja_sea_area
+ Licwoqatix_sea_area
+ Zikoc_sea_area
+ Jutul_sea_area
+ Wepalubwef_sea_area
+ Vijbemej_sea_area
+ Luhufjej_sea_area
+ Jedejun_sea_area
+ Qahe_sea_area
+ Muzmasnu_sea_area
+ }
+}
+
+Sevxi_sea_region = {
+ areas = {
+ Dogtipawhop_sea_area
+ Sofuvafi_sea_area
+ Jetarnate_sea_area
+ Wakehapo_sea_area
+ Duqxad_sea_area
+ Kihcibishup_sea_area
+ Pokkahsulxeb_sea_area
+ Gapoyxefmug_sea_area
+ Ju_sea_area
+ Rosheqroyxopo_sea_area
+ }
+}
+
+Cesasyokaq_sea_region = {
+ areas = {
+ Lokoxojob_sea_area
+ Xohafze_sea_area
+ Zumezoqnuq_sea_area
+ Riwtafqira_sea_area
+ Zomoci_sea_area
+ Lokdolalxaqsiw_sea_area
+ Pacqatog_sea_area
+ }
+}
+
+Ferulheniswir_sea_region = {
+ areas = {
+ Fezdetfuko_sea_area
+ Mazwu_sea_area
+ Cacheqi_sea_area
+ Ruptiycackip_sea_area
+ Bofti_sea_area
+ Jahubowogo_sea_area
+ Pigradzizof_sea_area
+ Gadiji_sea_area
+ }
+}
+
+Wabwecku_sea_region = {
+ areas = {
+ Cajhiqpud_sea_area
+ Kuwnu_sea_area
+ Feddonivit_sea_area
+ Duvkebco_sea_area
+ Buhjekcukena_sea_area
+ Jabowxu_sea_area
+ Rekewmu_sea_area
+ Vuxumom_sea_area
+ Joxuwuhoz_sea_area
+ Nibnu_sea_area
+ Qilzipunor_sea_area
+ }
+}
+
+Hiymappe_sea_region = {
+ areas = {
+ Qedoc_sea_area
+ Qeyecig_sea_area
+ Cuvori_sea_area
+ Mali_sea_area
+ Wefroj_sea_area
+ Mufiybuzo_sea_area
+ Gorsaygiy_sea_area
+ }
+}
+
+
+Cocexiy_region = {
+ areas = {
+ Pebifno_area
+ Zodvaripqu_area
+ Zohaxijac_area
+ Fololsexez_area
+ Lutofxo_area
+ Sul_area
+ Buclu_area
+ }
+}
+
+
+Picson_region = {
+ areas = {
+ Xerwamjezvir_area
+ Cupweja_area
+ Rapohotxoq_area
+ Wulhopimla_area
+ Suqeguho_area
+ Vuden_area
+ Nojvenqiyannilland_area
+ }
+}
+
+
+Tarovidhek_region = {
+ areas = {
+ Kuhsejefvi_area
+ Qunapibfux_area
+ Rezfokbec_area
+ Hicjasfemkuq_area
+ Yuhhuno_area
+ Pagaddavkahland_area
+ }
+}
+
+
+Wigifwec_region = {
+ areas = {
+ Nuyog_area
+ Fepxala_area
+ Bavac_area
+ Gizpuvibo_area
+ Kugow_area
+ Dugtu_area
+ Fazgejalu_area
+ Yebik_area
+ }
+}
+
+
+Fedewyi_region = {
+ areas = {
+ Xeh_area
+ Qajnoxod_area
+ Suvgozox_area
+ Sowaqa_area
+ Poxxofufuw_area
+ Rorudwom_area
+ Mirumland_area
+ Barev_area
+ Xislugi_area
+ }
+}
+
+
+Zepnorwin_region = {
+ areas = {
+ Bijeland_area
+ Hefiqwe_area
+ Fexotbepbeb_area
+ Gawuyriref_area
+ Yajajmij_area
+ Viqcu_area
+ }
+}
+
+
+Dapultenzun_region = {
+ areas = {
+ Fehyarkog_area
+ Kazem_area
+ Vunland_area
+ Pemsusaf_area
+ Yeleh_area
+ Banpiza_area
+ Cayjusob_area
+ Cakuruymib_area
+ Taqonxoy_area
+ }
+}
+
+
+Vunojcisin_region = {
+ areas = {
+ Neluwagzi_area
+ Peven_area
+ Talrax_area
+ Fowcebcuyey_area
+ Yetotaf_area
+ Xabeland_area
+ Loxed_area
+ Zosxe_area
+ }
+}
+
+
+Vekguxumqon_region = {
+ areas = {
+ Yenpezasi_area
+ Juxe_area
+ Tofzewkopa_area
+ Venehusdijwu_area
+ Niyovsu_area
+ Yuniyhejiy_area
+ Rafjerezuf_area
+ }
+}
+
+
+Dumebgokwi_region = {
+ areas = {
+ Zivob_area
+ Zuxuv_area
+ Reli_area
+ Pifonka_area
+ Negab_area
+ Di_area
+ Wurneylejifu_area
+ }
+}
+
+
+Dalpoppuhcikin_region = {
+ areas = {
+ Zepgazicef_area
+ Tuwxexgupnasenland_area
+ Mogo_area
+ Lequqaqkojland_area
+ Naqfawi_area
+ Bofjesziga_area
+ Pohduquj_area
+ Vitzifland_area
+ }
+}
+
+
+Telnixi_region = {
+ areas = {
+ Jahiqa_area
+ Kijagta_area
+ Xorjizkemku_area
+ Jib_area
+ Qu_area
+ Caxjer_area
+ Mumey_area
+ Wulyupwepa_area
+ }
+}
+
+
+Nesobi_region = {
+ areas = {
+ Fezagoq_area
+ Segixsuxveg_area
+ Wufwelo_area
+ Re_area
+ Xaskovceke_area
+ }
+}
+
+
+Modhezoxland_region = {
+ areas = {
+ Xiratwuf_area
+ Nehak_area
+ Jilofbafuvyi_area
+ Caland_area
+ Mejepgami_area
+ Qoyek_area
+ Lo_area
+ }
+}
+
+
+Facsit_region = {
+ areas = {
+ Renbegkox_area
+ Visayxe_area
+ Gexuztuw_area
+ Pemwevkujugon_area
+ Yizawviqes_area
+ Jahfoxzoco_area
+ Bosyisgisu_area
+ }
+}
+
+
+Rocarhezculand_region = {
+ areas = {
+ Pigeh_area
+ Xibzucazox_area
+ Vurwoyetu_area
+ Ho_area
+ Sadik_area
+ Nifaj_area
+ Rukiland_area
+ }
+}
+
+
+Huccimcob_region = {
+ areas = {
+ Xab_area
+ Lami_area
+ Lilejajvufland_area
+ Daflulbaya_area
+ Belo_area
+ Fovkahi_area
+ Jirxusanin_area
+ }
+}
+
+
+Waromwig_region = {
+ areas = {
+ Poru_area
+ Diccake_area
+ Gapizevorland_area
+ Woyi_area
+ Mejjo_area
+ Lodokdu_area
+ Da_area
+ }
+}
+
+
+Yadi_region = {
+ areas = {
+ Hunvob_area
+ Tuhfar_area
+ Dukiqa_area
+ Bev_area
+ Pefbahu_area
+ Xilut_area
+ Qifdoxav_area
+ Jixi_area
+ Nekkuthenwir_area
+ }
+}
+
+
+Xuqyive_region = {
+ areas = {
+ Vohixibabat_area
+ Bipbojpurix_area
+ Nepjixuh_area
+ Zomxixuqo_area
+ Xova_area
+ Tubeldu_area
+ Qizgu_area
+ Jobku_area
+ Jahovibok_area
+ }
+}
+
+
+Hovojbob_region = {
+ areas = {
+ Kiwa_area
+ Reryu_area
+ Divit_area
+ Hazzi_area
+ Yowel_area
+ Daqeblob_area
+ Zumildofland_area
+ Yaxhustac_area
+ }
+}
+
+
+Fobidfur_region = {
+ areas = {
+ Kowoso_area
+ Tumumland_area
+ Sedsodaru_area
+ Culatuphu_area
+ Qera_area
+ Nicfanoc_area
+ Gucen_area
+ Waba_area
+ Yaborafet_area
+ }
+}
+
+
+Huq_region = {
+ areas = {
+ Mojeckeq_area
+ Roloq_area
+ Sibiqajfof_area
+ Yuglodex_area
+ Xurcekjukwoz_area
+ Rismebfup_area
+ Noliweland_area
+ Xoq_area
+ }
+}
+
+
+Jokofne_region = {
+ areas = {
+ Woqipcewoc_area
+ Micacdup_area
+ Yi_area
+ Dexyexon_area
+ Hiktubeho_area
+ Xibi_area
+ Puxoygilvu_area
+ Vidasum_area
+ }
+}
+
+
+Soyuh_region = {
+ areas = {
+ Filxodzip_area
+ Qibbi_area
+ Sipmivi_area
+ Wozwo_area
+ Gikxaland_area
+ Fejapar_area
+ Ki_area
+ }
+}
+
+
+Hoqtuseland_region = {
+ areas = {
+ Caf_area
+ Dexasuland_area
+ Kuzemmow_area
+ Cakocoxal_area
+ Mazbuzuhdeb_area
+ Gizpulyoland_area
+ }
+}
+
+
+Mubeland_region = {
+ areas = {
+ Talyeto_area
+ Vojseqef_area
+ Gucoduy_area
+ Riguc_area
+ Gobitut_area
+ Tazmalurco_area
+ }
+}
+
+
+Gozotzax_region = {
+ areas = {
+ Sockegop_area
+ Lu_area
+ Rujlelbicte_area
+ Kigwafvo_area
+ Yebwegzow_area
+ }
+}
+
+
+Toyamakland_region = {
+ areas = {
+ Bapveziq_area
+ Poland_area
+ Rotaj_area
+ Paquvepew_area
+ Pajqa_area
+ Wuyfiy_area
+ Toqdobi_area
+ Xewpu_area
+ }
+}
+
+
+Yujayzep_region = {
+ areas = {
+ Xuzikdufsox_area
+ Kotgo_area
+ Guqofgey_area
+ Vebusvec_area
+ Tazme_area
+ Yiwok_area
+ Gepibgux_area
+ Qizav_area
+ }
+}
+
+
+Yidoyaf_region = {
+ areas = {
+ Gotcoqloq_area
+ Qacqavpiqiland_area
+ Kijqamcu_area
+ Yacjelifyuv_area
+ Zik_area
+ Zaqyekbaljuf_area
+ Tidecum_area
+ Sorcejokland_area
+ Devqikdi_area
+ }
+}
+
+
+Pofpofland_region = {
+ areas = {
+ Lekaliyxunow_area
+ Lara_area
+ Jowtog_area
+ Nizkegfu_area
+ Zofaf_area
+ Xapuno_area
+ Motviho_area
+ Zazep_area
+ }
+}
+
+
+Cuhzucbonom_region = {
+ areas = {
+ Mepotacfi_area
+ Lickawbu_area
+ Vufcatotko_area
+ Bavdokland_area
+ Jopawi_area
+ Fevmucdek_area
+ Cipixtajul_area
+ }
+}
+
+
+Bofukay_region = {
+ areas = {
+ Wixax_area
+ Wenmuhxitoland_area
+ Bonemic_area
+ Gejcifneyen_area
+ Setlezkev_area
+ Lokip_area
+ }
+}
+
+
+Warevaj_region = {
+ areas = {
+ Vo_area
+ Va_area
+ Gobabenug_area
+ Bezikkin_area
+ Yijubughob_area
+ Zefupgur_area
+ }
+}
+
+
+Mulxayi_region = {
+ areas = {
+ Sarkehudja_area
+ Liwubudew_area
+ Peba_area
+ Sodefduv_area
+ Cotebvejaz_area
+ Koytavod_area
+ Lakep_area
+ }
+}
+
+
+Fuxtesrucvi_region = {
+ areas = {
+ Nafpehguk_area
+ Sopqu_area
+ Fuqbas_area
+ Beg_area
+ Tuniwi_area
+ Lilomuhva_area
+ }
+}
+
+
+Dohub_region = {
+ areas = {
+ Gugya_area
+ Yaziz_area
+ Qucqavap_area
+ Vomebob_area
+ Sojxilicyig_area
+ Mosbo_area
+ }
+}
+
+
+Hakusdul_region = {
+ areas = {
+ Gatbedhizxum_area
+ Gifadiqland_area
+ Jujolgo_area
+ Nezib_area
+ Qaqfa_area
+ Yotyosbiland_area
+ Zulrozof_area
+ Hes_area
+ }
+}
+
+
+Qovzacpop_region = {
+ areas = {
+ Zuznovgosbis_area
+ Gejozid_area
+ Jela_area
+ Kogkecde_area
+ Getroc_area
+ Wovamig_area
+ }
+}
+
+
+Yaxgepepkuh_region = {
+ areas = {
+ Zoluvuq_area
+ Tixqobfe_area
+ Ciseyxivwaw_area
+ Keqiluj_area
+ Xukam_area
+ Nakahbic_area
+ }
+}
+
+
+Yipcujinnif_region = {
+ areas = {
+ Fogdarugland_area
+ Simfar_area
+ Fewgefeh_area
+ Rinukci_area
+ Kos_area
+ Hokbiliku_area
+ }
+}
+
+
+Laynesapgo_region = {
+ areas = {
+ Dapjelu_area
+ Ka_area
+ Jovwuwabcok_area
+ Guzwo_area
+ Litanodrat_area
+ Soguc_area
+ Mivi_area
+ Puguhunimazland_area
+ Viyib_area
+ }
+}
+
+
+Normujse_region = {
+ areas = {
+ Wusraryefsav_area
+ Bot_area
+ Nitgugland_area
+ Qoli_area
+ Cinduzxate_area
+ Didqikge_area
+ Sekaw_area
+ }
+}
+
+
+Joxu_region = {
+ areas = {
+ Lente_area
+ Wowif_area
+ Tejdeygohzug_area
+ Sixo_area
+ Vazbipeland_area
+ }
+}
+
+
+Dubundexan_region = {
+ areas = {
+ Koxaxifak_area
+ Bidbondo_area
+ Xedgiycoqpowco_area
+ Gisoyoqmeqa_area
+ Rujejoqu_area
+ }
+}
+
+
+Zulecfatob_region = {
+ areas = {
+ Niligucfav_area
+ Roqzifsu_area
+ Lodnusus_area
+ Wunvop_area
+ Gugemav_area
+ }
+}
+
+
+Fesjem_region = {
+ areas = {
+ Miqi_area
+ Lejyotarus_area
+ Vulo_area
+ Morzatasul_area
+ Gifix_area
+ Keland_area
+ Boluqa_area
+ Cu_area
+ }
+}
+
+
+Vumsa_region = {
+ areas = {
+ Ku_area
+ Pihaxkuland_area
+ Nasosisa_area
+ Tewmidzu_area
+ Jammaj_area
+ Lufex_area
+ Qaf_area
+ Favuyhu_area
+ Dasahnu_area
+ }
+}
+
+
+Lexoqut_region = {
+ areas = {
+ Fammicsa_area
+ Leqejhutisland_area
+ Geqetur_area
+ Luvalqixqe_area
+ Wogcibmibnu_area
+ Jownisah_area
+ Hozxas_area
+ Qof_area
+ }
+}
+
+
+Lucu_region = {
+ areas = {
+ Katetix_area
+ Zub_area
+ Jihubvuland_area
+ Sidwugjoh_area
+ Toqaci_area
+ Gotdibal_area
+ Cipjujicuw_area
+ }
+}
+
+
+Wisowsowjaf_region = {
+ areas = {
+ Mijfe_area
+ Wih_area
+ Pisocojlenwa_area
+ Gabsohuland_area
+ Zondebezi_area
+ Qulvulekgic_area
+ Siqassacpo_area
+ }
+}
+
+
+Dujowo_region = {
+ areas = {
+ Zekuno_area
+ Sikroland_area
+ Ruwgicdukga_area
+ Bozsuvtu_area
+ Vafiy_area
+ }
+}
+
+
+Gohwefupi_region = {
+ areas = {
+ Rixboc_area
+ Huqoh_area
+ Wuvnovumbo_area
+ Gudohxuz_area
+ Fecufu_area
+ Nalhojqu_area
+ Saqkuluy_area
+ Nusdozex_area
+ Peymacpevpor_area
+ }
+}
+
+
+Cihhaz_region = {
+ areas = {
+ Luqifzitgut_area
+ Rosifmat_area
+ Botbaland_area
+ Yayzuhloy_area
+ Jucaga_area
+ Carqet_area
+ Sonavqex_area
+ Zotyu_area
+ }
+}
+
+
+Qapjipawzizxi_region = {
+ areas = {
+ Didzetkivmiq_area
+ Facot_area
+ Huqpe_area
+ Soke_area
+ Cutitowte_area
+ Dajaze_area
+ Gojnug_area
+ }
+}
+
+
+Nusqemwoq_region = {
+ areas = {
+ Nacuq_area
+ Vuxiqac_area
+ Qimoli_area
+ Dokwivqe_area
+ Qegafri_area
+ Huvoqqo_area
+ }
+}
+
+
+Hibica_region = {
+ areas = {
+ Zehasviwteland_area
+ Mivxovujland_area
+ Popoh_area
+ Qonzecnihin_area
+ Xakadan_area
+ Fipnoqiland_area
+ Kehfimxiland_area
+ Tobqorvax_area
+ Rifhoresey_area
+ }
+}
+
+
+Puyjexsuhe_region = {
+ areas = {
+ Mamun_area
+ Vugzeqof_area
+ Xucof_area
+ Bebref_area
+ Zojubdaw_area
+ Verneb_area
+ Gurew_area
+ Yafuzmo_area
+ Wuparobisi_area
+ }
+}
+
+
+Babucririyland_region = {
+ areas = {
+ Xilib_area
+ Yibdajqeq_area
+ Bazuyufef_area
+ Ke_area
+ Bogejko_area
+ Sotozegu_area
+ Semtaybe_area
+ Qimgaf_area
+ }
+}
+
+
+Vexdohedwidul_region = {
+ areas = {
+ Kajbiy_area
+ Nutgocoxye_area
+ Pibavref_area
+ Sale_area
+ Luvnosxun_area
+ Wusiqtu_area
+ Qekwemifbi_area
+ Runo_area
+ }
+}
+
+
+Zuvwiyawof_region = {
+ areas = {
+ Wicer_area
+ Cojankuzuy_area
+ Fodon_area
+ Jikulik_area
+ Wi_area
+ }
+}
+
+
+Jutyuyimjuv_region = {
+ areas = {
+ Tavujdu_area
+ Yujazfas_area
+ Pivqomum_area
+ Cuhcevopka_area
+ Vetavland_area
+ Fujezedji_area
+ Kuf_area
+ Vuhfuyjeqhah_area
+ }
+}
+
+
+Qadpafsutjuvland_region = {
+ areas = {
+ Lokedmoge_area
+ Nokguxbe_area
+ Hucgif_area
+ Hopen_area
+ Yikog_area
+ Pokgutlavnuland_area
+ Sag_area
+ }
+}
+
+
+Miwdaluni_region = {
+ areas = {
+ Zekoland_area
+ Ciyyu_area
+ Korcuca_area
+ Pazenu_area
+ Cawbo_area
+ Zuk_area
+ Colkiwega_area
+ Kudzuwxewland_area
+ }
+}
+
+
+Gesudo_region = {
+ areas = {
+ Kipudix_area
+ Negize_area
+ Luknokev_area
+ Dazniscoju_area
+ Gamwi_area
+ Hizbegcizoz_area
+ }
+}
+
+
+Fadinzessoy_region = {
+ areas = {
+ Wofiland_area
+ Foto_area
+ Terelimas_area
+ Kiphur_area
+ Zokrivje_area
+ Sahaxa_area
+ Xavjonweland_area
+ Jaqan_area
+ Qusnalekpo_area
+ }
+}
+
+
+Cuhtuxfazov_region = {
+ areas = {
+ Pubpeyqi_area
+ Yeryuhucce_area
+ Gidudso_area
+ Cipi_area
+ Vopzelereland_area
+ Kilgiqibu_area
+ Rexipeh_area
+ Qugbadiw_area
+ }
+}
+
+
+Tipvuyirfu_region = {
+ areas = {
+ Nuqozen_area
+ Kepigfaland_area
+ Kazah_area
+ Fojag_area
+ Karijo_area
+ Norvo_area
+ Fewdicow_area
+ }
+}
+
+
+Melekunland_region = {
+ areas = {
+ Mutva_area
+ Johixe_area
+ Paland_area
+ Gehuvpurrihhut_area
+ Qeh_area
+ Cikirqama_area
+ Vewzog_area
+ Yajaksop_area
+ Topopanefland_area
+ }
+}
+
+
+Tudcitpe_region = {
+ areas = {
+ Tiwcofus_area
+ Sim_area
+ Jaxru_area
+ Jepjeyenaq_area
+ Lusalhag_area
+ Dubamvoh_area
+ Suquvtif_area
+ Dajfuxyi_area
+ Bo_area
+ }
+}
+
+
+Kofingo_region = {
+ areas = {
+ Keqachuq_area
+ Birluhufosak_area
+ Piyjuvaje_area
+ Do_area
+ Taqafboju_area
+ Zapop_area
+ Simosone_area
+ }
+}
+
+
+Bi_region = {
+ areas = {
+ Bekruz_area
+ Cane_area
+ Zissucifu_area
+ Vazefaxiv_area
+ Xezpiceckaral_area
+ Cahwi_area
+ Qibus_area
+ Woluxevot_area
+ Basvi_area
+ }
+}
+
+
+Govxagigvogland_region = {
+ areas = {
+ Zappu_area
+ Cugifbarland_area
+ Ruzpocland_area
+ We_area
+ Tulsidfo_area
+ Rafkuw_area
+ }
+}
+
+
+Mogekwasip_region = {
+ areas = {
+ Yuqzukoland_area
+ Fo_area
+ Dud_area
+ Rupo_area
+ Zaqvufoted_area
+ Fibjum_area
+ Vubazuvmupza_area
+ }
+}
+
+
+Popbeco_region = {
+ areas = {
+ Kivonbazu_area
+ Mohpicuj_area
+ Nihnutoqnafulland_area
+ Pilugabul_area
+ Dorlilat_area
+ }
+}
+
+
+Losuhma_region = {
+ areas = {
+ Xexxubnida_area
+ Tivjavyapat_area
+ Tudgijland_area
+ Bokaland_area
+ Rupgas_area
+ Giqah_area
+ Tekhuxsodde_area
+ Hopag_area
+ }
+}
+
+
+Xodidkiwbo_region = {
+ areas = {
+ Waqcoyiwe_area
+ Gedi_area
+ Kicjovqibep_area
+ Leffubga_area
+ Geljaqotland_area
+ Sad_area
+ Tucmedi_area
+ }
+}
+
+
+Cuyemte_region = {
+ areas = {
+ Xubzennava_area
+ Lenmufop_area
+ Zeluzvujiw_area
+ Fehsuwxigqa_area
+ Kazagca_area
+ Jusajireh_area
+ Nojufezamyiland_area
+ Bepgiyubninya_area
+ }
+}
+
+
+Zaxqu_region = {
+ areas = {
+ Paflecubmom_area
+ Qetofi_area
+ Dofe_area
+ Zojogix_area
+ Bezmehveteb_area
+ Cakjaphe_area
+ Yasulug_area
+ Tucbappixyuji_area
+ Zejqopesra_area
+ }
+}
+
+
+Memu_region = {
+ areas = {
+ Gamjepxoduk_area
+ Vipamtix_area
+ Gijey_area
+ Kupeland_area
+ Muqirte_area
+ Jelxele_area
+ Casarzakitu_area
+ Mura_area
+ Zogunul_area
+ }
+}
+
+
+Lanno_region = {
+ areas = {
+ Zastudba_area
+ Zalhe_area
+ Lojajox_area
+ Zucraj_area
+ Zoxagzobxuvdud_area
+ Heyishoqe_area
+ Si_area
+ Cile_area
+ }
+}
+
+
+Supukva_region = {
+ areas = {
+ Vompupal_area
+ Qeldegwoni_area
+ Rot_area
+ Xepbep_area
+ Ramus_area
+ Feqi_area
+ Yikpoqab_area
+ }
+}
+
+
+Xunofqoqo_region = {
+ areas = {
+ Githepfofuf_area
+ Demkujka_area
+ Zowoj_area
+ Qahnicfu_area
+ Cilbaf_area
+ Necomha_area
+ Mackago_area
+ Monruzafuz_area
+ Lep_area
+ }
+}
+
+
+Citpolxek_region = {
+ areas = {
+ Cefekfe_area
+ Xagi_area
+ Lowem_area
+ Nudvewnudod_area
+ Poslen_area
+ }
+}
+
+
+Giqaz_region = {
+ areas = {
+ Govegnoysamco_area
+ Hipemzaqubo_area
+ Nilgojxig_area
+ Neriweb_area
+ Rozihsolul_area
+ Hijayyo_area
+ Pevlapsak_area
+ Tafoz_area
+ Geyucec_area
+ }
+}
+
+
+Tacmig_region = {
+ areas = {
+ Livvummop_area
+ Cognozwa_area
+ Rufuwa_area
+ Gawusimzi_area
+ Celaz_area
+ Vawufadmo_area
+ Napzihru_area
+ Zitfuhwokud_area
+ }
+}
+
+
+Yefolmasrex_region = {
+ areas = {
+ Hoyvocgu_area
+ Yedehwixcojxev_area
+ Celuqlo_area
+ Guqmeyxes_area
+ Guquxumu_area
+ Zecotix_area
+ Vawzoboy_area
+ Gumecib_area
+ Futid_area
+ }
+}
+
+
+Fehnimdubu_region = {
+ areas = {
+ Mizoyse_area
+ Keyavde_area
+ Dilwi_area
+ Dovaf_area
+ Zuhofxa_area
+ Jimotu_area
+ Zow_area
+ }
+}
+
+
+Fadcejxej_region = {
+ areas = {
+ Lisiqha_area
+ Nebyupuj_area
+ Yayxupnak_area
+ Pavbem_area
+ Xitekah_area
+ Ziqmipji_area
+ }
+}
+
+
+Dexsufdeju_region = {
+ areas = {
+ Metfohpocji_area
+ Yuqecserha_area
+ Jeyatuy_area
+ Miqweljep_area
+ Mantaw_area
+ Zexfukixsuv_area
+ }
+}
+
+
+Vaybutiwa_region = {
+ areas = {
+ Muxbidi_area
+ Luge_area
+ Yoyfoyyebso_area
+ Royoza_area
+ Wolbah_area
+ }
+}
+
+
+Qahus_region = {
+ areas = {
+ Zuxtotirur_area
+ Nijubat_area
+ Duyfokdiyba_area
+ Lamoqhoj_area
+ Qahogin_area
+ Wabawfep_area
+ Mo_area
+ }
+}
+
+
+Bisbempikland_region = {
+ areas = {
+ Kevuvrizland_area
+ Hasoywu_area
+ Quzgok_area
+ Vabaxtaf_area
+ Zosbur_area
+ Loxpoj_area
+ Fay_area
+ Laxpi_area
+ }
+}
+
+
+Basjitijozo_region = {
+ areas = {
+ Boxbop_area
+ Rowewpehfu_area
+ Zissa_area
+ Xenupu_area
+ Muscediswuc_area
+ Legjigo_area
+ Welriyveqzo_area
+ Xuwgarax_area
+ }
+}
+
+
+Dicig_region = {
+ areas = {
+ Wewubde_area
+ Kidiwil_area
+ Holjafov_area
+ Vazapifland_area
+ Sizibumte_area
+ Kokoyi_area
+ Doxgetiptegoj_area
+ }
+}
+
+
+Dej_region = {
+ areas = {
+ Domomuw_area
+ Kaqlixnoxsi_area
+ Ceqrajxebsal_area
+ Fawok_area
+ Za_area
+ Hewoccemland_area
+ Waqnoygetke_area
+ Mumvipekeqland_area
+ }
+}
+
+
+Fuqtavokuki_region = {
+ areas = {
+ Lihezland_area
+ Xaxwubuy_area
+ Rizdu_area
+ Bumirpov_area
+ Docufeter_area
+ Katduzo_area
+ Mupu_area
+ }
+}
+
+
+Zadiqlaqah_region = {
+ areas = {
+ Vapodi_area
+ Xatidnuy_area
+ Teyguviha_area
+ Sarihowze_area
+ Wehzalhu_area
+ }
+}
+
+
+Ledu_region = {
+ areas = {
+ Qabitbaland_area
+ Foqu_area
+ Dalsen_area
+ Zuqbehkaqdep_area
+ Xehitxur_area
+ }
+}
+
+
+Wokivwacbet_region = {
+ areas = {
+ Yocwariy_area
+ Tubectahuland_area
+ Lokbozta_area
+ Hunnolachema_area
+ Xebrocogjiv_area
+ Lacnoland_area
+ Dippeg_area
+ }
+}
+
+
+Mojunofco_region = {
+ areas = {
+ Nogrob_area
+ Gajukunog_area
+ Hapxokxummi_area
+ Bepyoji_area
+ Peyzahveland_area
+ }
+}
+
+
+Xovevvohaj_region = {
+ areas = {
+ Hoxkinebfe_area
+ Yibmuga_area
+ Hahana_area
+ Zeb_area
+ Tadegzatu_area
+ }
+}
+
+
+Wexqiwdiw_region = {
+ areas = {
+ Xowohwop_area
+ Huxhutyesadkav_area
+ Bah_area
+ Netkebaylu_area
+ Nobland_area
+ Cuhonzaxland_area
+ Ruvkekbu_area
+ }
+}
+
+
+Jos_region = {
+ areas = {
+ Muzvodqo_area
+ Hozorecland_area
+ Rerva_area
+ Yuheyusabasland_area
+ Xorzuland_area
+ Cuvxojer_area
+ Faquxdag_area
+ }
+}
+
+
+Jadi_region = {
+ areas = {
+ Zefevzu_area
+ Huwbiwinland_area
+ Luvavod_area
+ Jeksuxmu_area
+ Woftavun_area
+ Himletxetofti_area
+ Zahwufvug_area
+ Winuz_area
+ Yozum_area
+ }
+}
+
+
+Yixgasan_region = {
+ areas = {
+ Batufeland_area
+ Kopyuzomzof_area
+ To_area
+ Suca_area
+ Goqtawkowlijeland_area
+ Rargupaland_area
+ }
+}
+
+
+Bakor_region = {
+ areas = {
+ Sekhivazdodland_area
+ Hexgowe_area
+ Nuyqikxajyey_area
+ Buqukvunpo_area
+ Zujlugja_area
+ Bixur_area
+ Buznefdiko_area
+ Run_area
+ Kuxxamfipo_area
+ }
+}
+
+
+Heyupguve_region = {
+ areas = {
+ Tinvevsu_area
+ Zoxrelsef_area
+ Keqalde_area
+ Wanye_area
+ Macfaland_area
+ Tofyupukni_area
+ Digexlado_area
+ Riqhiran_area
+ Wuvjeqtu_area
+ }
+}
+
+
+Qinovujka_region = {
+ areas = {
+ Kipa_area
+ Ziwufilbi_area
+ Sokih_area
+ Ceztozra_area
+ Sifuk_area
+ Fijenesa_area
+ Padwebuno_area
+ Koddidiwix_area
+ }
+}
+
+
+Tiveqva_region = {
+ areas = {
+ Yok_area
+ Qapwayqis_area
+ Tavqum_area
+ Labinseqtaj_area
+ Navamek_area
+ Jibpej_area
+ Zubjuki_area
+ Savnolgoy_area
+ }
+}
+
+
+Reyi_region = {
+ areas = {
+ Bajavuf_area
+ Witijsesiz_area
+ Nopogoh_area
+ Cuhhe_area
+ Lolqilxa_area
+ Huhusrije_area
+ Fezsuzland_area
+ Pepamoy_area
+ }
+}
+
+
+Zegofpuli_region = {
+ areas = {
+ Tohpivcixtizyin_area
+ Qepelwage_area
+ Bex_area
+ Mesaberqe_area
+ Fixmu_area
+ Dicotret_area
+ Moltuy_area
+ Wovqidqox_area
+ }
+}
+
+
+Nedeyu_region = {
+ areas = {
+ Yuvamwub_area
+ Suryovxukexru_area
+ Zikiwgidog_area
+ Gifger_area
+ Cenibyogifland_area
+ }
+}
+
+
+Gahu_region = {
+ areas = {
+ Ruguhjakvak_area
+ Xiwutqoycoland_area
+ Zehuf_area
+ Vagfiwvodvocew_area
+ Haw_area
+ Tezude_area
+ Niwgaytu_area
+ Pulji_area
+ }
+}
+
+
+Yiqyu_region = {
+ areas = {
+ Jefjibfowe_area
+ Javga_area
+ Cagxumef_area
+ Poqzihrorne_area
+ Muxofano_area
+ Danactap_area
+ Bovunyax_area
+ Vux_area
+ }
+}
+
+
+Tulgulodem_region = {
+ areas = {
+ Copti_area
+ Qimjazpuyjik_area
+ Daknulpi_area
+ Qahcuhriz_area
+ Ninamumu_area
+ Woskopfutibu_area
+ Xiqobjev_area
+ Powednoppa_area
+ }
+}
+
+
+Rejab_region = {
+ areas = {
+ Nemveqaland_area
+ Yerba_area
+ Vinuxke_area
+ Teryemanfagtij_area
+ Ze_area
+ Yimteqnime_area
+ }
+}
+
+
+Vuv_region = {
+ areas = {
+ Joheyfod_area
+ Yiwzog_area
+ Pesjakuyop_area
+ Gadu_area
+ Qatnefri_area
+ Zogudjit_area
+ }
+}
+
+
+Nonacpapqar_region = {
+ areas = {
+ Gathov_area
+ Rudtev_area
+ Fojexev_area
+ Nogkoki_area
+ Lezvi_area
+ }
+}
+
+
+Huvyas_region = {
+ areas = {
+ Fibtoqosok_area
+ Ruzhi_area
+ Gevceso_area
+ Vuvcixwe_area
+ Guzwortopyema_area
+ Xam_area
+ Wule_area
+ Sayafij_area
+ Dasxegefnuyeland_area
+ }
+}
+
+
+Povyuvaland_region = {
+ areas = {
+ Fufru_area
+ Vagoqogqel_area
+ Folan_area
+ Giclofvirwap_area
+ Ga_area
+ Zijgih_area
+ Wegsoto_area
+ Gifsevte_area
+ Dilowqu_area
+ }
+}
+
+
+Socatnenag_region = {
+ areas = {
+ Summiz_area
+ Haxce_area
+ Heqvudicef_area
+ Fexoyilkupen_area
+ Nehqukyacxuxti_area
+ Cizijvitluvland_area
+ Zodcerxe_area
+ Sohaczifik_area
+ }
+}
+
+
+Vugucu_region = {
+ areas = {
+ Movducximiy_area
+ Dipaneqvuvhu_area
+ Peghinkufzu_area
+ Lovzosiy_area
+ Sigowkoho_area
+ Xuvzad_area
+ Tosepovxo_area
+ Qipolode_area
+ Wima_area
+ }
+}
+
+
+Vanas_region = {
+ areas = {
+ Bubbobi_area
+ Rewxusivland_area
+ Qadnenpivland_area
+ Je_area
+ Muhjisji_area
+ Xitpalligage_area
+ Coluj_area
+ Fofowokafbev_area
+ Zasub_area
+ }
+}
+
+
+Zuwcifihland_region = {
+ areas = {
+ Gesihotweq_area
+ Dozmed_area
+ Soqwawuphovfom_area
+ Hadafoj_area
+ Sudhiland_area
+ Zisobsanuh_area
+ }
+}
+
+
+Zedcir_region = {
+ areas = {
+ Nukodu_area
+ Wocicfaze_area
+ Hocma_area
+ Secemuz_area
+ Rahmusipvuyvuj_area
+ }
+}
+
+
+Fidokoxoj_region = {
+ areas = {
+ Coluke_area
+ Huhwimloplal_area
+ Mucqoq_area
+ Yihhevgaland_area
+ Kayiselocjehland_area
+ Lik_area
+ Zavudiqoj_area
+ }
+}
+
+
+Gogjifodnoy_region = {
+ areas = {
+ Qirahi_area
+ Fizubefi_area
+ Huj_area
+ Zabije_area
+ Visiqlexes_area
+ Kuwomhuz_area
+ }
+}
+
+
+Hi_region = {
+ areas = {
+ Fopuhyi_area
+ Cuxalu_area
+ Fachamuhubland_area
+ Dehfihelland_area
+ Pahoqdovyo_area
+ Mixo_area
+ Fasveyibe_area
+ }
+}
+
+
+Loracagxop_region = {
+ areas = {
+ Hutuyevcilenland_area
+ Kiv_area
+ Sedcetland_area
+ Toqux_area
+ Mihtabpu_area
+ }
+}
+
+
+Lehis_region = {
+ areas = {
+ Zenuti_area
+ Goyvi_area
+ Yuynuzanya_area
+ Ninko_area
+ Zavciduhland_area
+ Xamelit_area
+ Garsovgi_area
+ Rafajwex_area
+ }
+}
+
+
+Jucyutvoland_region = {
+ areas = {
+ Wejawpa_area
+ Feyivoh_area
+ Gigdijlo_area
+ Foyuj_area
+ Neknu_area
+ Kefvuncec_area
+ Hupeland_area
+ Gudgut_area
+ Wedget_area
+ }
+}
+
+
+Serbero_region = {
+ areas = {
+ Yizxaba_area
+ Larejyo_area
+ Fepdukpa_area
+ Lomfe_area
+ Cis_area
+ Zinilzufland_area
+ Maxeqoz_area
+ }
+}
+
+
+Dokgo_region = {
+ areas = {
+ Ziko_area
+ Haxcoqvogewkuv_area
+ Nugin_area
+ Furod_area
+ Vufobtudboh_area
+ Wikxopozliq_area
+ Yoxoye_area
+ }
+}
+
+
+Bahdipa_region = {
+ areas = {
+ Lelfudis_area
+ Qalsolpise_area
+ Kav_area
+ Ruginixfi_area
+ Mikxinot_area
+ Cukakzi_area
+ Mirichob_area
+ Roxco_area
+ }
+}
+
+
+Rohi_region = {
+ areas = {
+ Xipsesunop_area
+ Wupilkuqtofriland_area
+ Sajeqsaxrugop_area
+ Kusbukojak_area
+ Vecbodquf_area
+ Tisej_area
+ }
+}
+
+
+Kuvuqhe_region = {
+ areas = {
+ Rogsocsev_area
+ Nudegiwvid_area
+ Dewti_area
+ Yufnispotluland_area
+ Micnasfoxriland_area
+ Tonoxiwen_area
+ Pavqajpihland_area
+ Lupesrem_area
+ }
+}
+
+
+Wirad_region = {
+ areas = {
+ So_area
+ Favdocace_area
+ Samdi_area
+ Lodqawmobvok_area
+ Rebetwuf_area
+ Kixuyakland_area
+ Rofitmete_area
+ Dowevhevhon_area
+ }
+}
+
+
+Havxi_region = {
+ areas = {
+ Jijfu_area
+ Dodqavkip_area
+ Pevakme_area
+ Ripcuyvolguqpoy_area
+ Gog_area
+ Moqofiwis_area
+ Dokuftesan_area
+ Fuhazmuqa_area
+ }
+}
+
+
+Zajninrofog_region = {
+ areas = {
+ Hitdevnaf_area
+ Fikgarfo_area
+ Doluland_area
+ Hitawmi_area
+ Suyhoz_area
+ Xokrifti_area
+ }
+}
+
+
+Bobayikbo_region = {
+ areas = {
+ Fuwupju_area
+ Damutiz_area
+ Xedaxoned_area
+ Xijulwej_area
+ Hopcis_area
+ Repade_area
+ Kugfisocsub_area
+ Yofla_area
+ }
+}
+
+
+Culpu_region = {
+ areas = {
+ Vabuyfu_area
+ Tilkamoviland_area
+ Cedro_area
+ Qemni_area
+ Beqal_area
+ Guqwoccemkiy_area
+ Corroxror_area
+ }
+}
+
+
+Sefucland_region = {
+ areas = {
+ Raxeland_area
+ Zijiwon_area
+ Vuyqazikdetland_area
+ Bizfag_area
+ Tinosupitqoc_area
+ }
+}
+
+
+Fizaf_region = {
+ areas = {
+ Lumosgaq_area
+ Vevuzkicmed_area
+ Hiwofte_area
+ Rixeqravcig_area
+ Sufkeb_area
+ }
+}
+
+
+Dagciruxlec_region = {
+ areas = {
+ Fetfogkaqoh_area
+ Qiz_area
+ Qepgevpa_area
+ Merguvun_area
+ Xodzografhow_area
+ Bi_area
+ Xigirwe_area
+ Lumyiqpug_area
+ Dijatxel_area
+ }
+}
+
+
+Zojaland_region = {
+ areas = {
+ Vazruwapvis_area
+ Rahrupex_area
+ Befi_area
+ Lasesey_area
+ Gaynas_area
+ Guyecju_area
+ Favuz_area
+ Jalexodxo_area
+ }
+}
+
+
+Qimosland_region = {
+ areas = {
+ Qattijo_area
+ Vavqudu_area
+ Cajayaqmi_area
+ Xulmuhxiyik_area
+ Xudeh_area
+ Roqutixland_area
+ Zuravjabza_area
+ Pedexlaz_area
+ }
+}
+
+
+Yujpeti_region = {
+ areas = {
+ Cucbathu_area
+ Wojuwow_area
+ No_area
+ Mumce_area
+ Meley_area
+ }
+}
+
+
+Lisrejcoz_region = {
+ areas = {
+ Vuyotse_area
+ Hibladmovoyland_area
+ Wagubamkeq_area
+ Lawuftus_area
+ Posavewif_area
+ Semhafaland_area
+ Qiqso_area
+ Gikayenmi_area
+ }
+}
+
+
+Miko_region = {
+ areas = {
+ Hegompoj_area
+ Zeblo_area
+ Bemwih_area
+ Zujugsukwupyab_area
+ Kobob_area
+ Fojacug_area
+ Tizuqnulya_area
+ Vek_area
+ Qazpigdotun_area
+ }
+}
+
+
+Zuxquhuvjowko_region = {
+ areas = {
+ Yepyicluland_area
+ Runuvyu_area
+ Sohofimland_area
+ Qofpagyo_area
+ Mubqetafip_area
+ Hubid_area
+ Japrepgarfukrag_area
+ Muzacwe_area
+ Cuk_area
+ }
+}
+
+
+Viqmeta_region = {
+ areas = {
+ Bansoyhojadu_area
+ Bidaqejpaja_area
+ Corga_area
+ Dixohqeqxen_area
+ Qa_area
+ Mugwoc_area
+ Xubdi_area
+ Momrekaf_area
+ Teku_area
+ }
+}
+
+
+Holu_region = {
+ areas = {
+ Wajejasyu_area
+ Neyho_area
+ Jeyas_area
+ Pumkosoqu_area
+ Bacwapsujo_area
+ }
+}
+
+
+Mi_region = {
+ areas = {
+ Rurbarvuqaf_area
+ Zalletudvu_area
+ Yumkafqa_area
+ Teqtunre_area
+ Qawyuh_area
+ }
+}
+
+
+Rulma_region = {
+ areas = {
+ Yahrifsamxen_area
+ Digsuypil_area
+ Fazsudfeyhir_area
+ Kuvxaxkipuki_area
+ Jorwokqah_area
+ }
+}
+
+
+Cedni_region = {
+ areas = {
+ Rapxodra_area
+ Mojnigoland_area
+ Beni_area
+ Hacoyo_area
+ Yudsixa_area
+ }
+}
+
+
+Nenmatvah_region = {
+ areas = {
+ Letiju_area
+ Safab_area
+ Qefep_area
+ Voyesnesdoluq_area
+ Jukuhima_area
+ Nizenugapo_area
+ Guxi_area
+ }
+}
+
+
+Muftopnoland_region = {
+ areas = {
+ Qopcoq_area
+ Kecuv_area
+ Cemef_area
+ Pugatul_area
+ Rumornupax_area
+ Gokgeyzemoc_area
+ Ge_area
+ }
+}
+
+
+Disdehsumic_region = {
+ areas = {
+ Xawcuhaxis_area
+ Moteg_area
+ Cizevi_area
+ Tabbuqul_area
+ Qodpidland_area
+ Zelole_area
+ Gindemxe_area
+ Moysumvipdezew_area
+ Nudsup_area
+ }
+}
+
+
+Buladochibland_region = {
+ areas = {
+ Hawjif_area
+ Wuybecdevqiz_area
+ Dulakre_area
+ Bezcetes_area
+ Paveywiland_area
+ Tawiflema_area
+ Yuduham_area
+ Wowrifo_area
+ }
+}
+
+
+Dojapcosiy_region = {
+ areas = {
+ Yus_area
+ Vonxurusland_area
+ Dotura_area
+ Socihmehim_area
+ Zixcerumpu_area
+ Mekqubyibku_area
+ Javak_area
+ Coymi_area
+ }
+}
+
+
+Moyacroc_region = {
+ areas = {
+ Paru_area
+ Zobujayde_area
+ Qikiqu_area
+ Huruland_area
+ Duyubxac_area
+ Mumwupu_area
+ }
+}
+
+
+Xecdetup_region = {
+ areas = {
+ Wuxazcu_area
+ Xacojhaksu_area
+ Refda_area
+ Sufuqnopje_area
+ Yotsay_area
+ Refloftad_area
+ Haygumcebec_area
+ Coxjorwu_area
+ Pomararuxmi_area
+ }
+}
+
+
+Nuslises_region = {
+ areas = {
+ Jelop_area
+ Qebaj_area
+ Vekyabimwuk_area
+ Bodwijhad_area
+ Jazseqa_area
+ Temucfuland_area
+ }
+}
+
+
+Jub_region = {
+ areas = {
+ Yukugib_area
+ Heta_area
+ Gaftuga_area
+ Fojreqom_area
+ Dol_area
+ }
+}
+
+
+Dopnenhacwi_region = {
+ areas = {
+ Vuthaxqavuw_area
+ Hojlo_area
+ Hadude_area
+ Xuwiflenani_area
+ Sikaku_area
+ Bixsogoq_area
+ Wekvofet_area
+ Jihfagavkufzon_area
+ }
+}
+
+
+Yepuyus_region = {
+ areas = {
+ Nut_area
+ Seyaqubu_area
+ Juno_area
+ Caro_area
+ Wemod_area
+ Wiseferub_area
+ Vixuxpuko_area
+ Buhmi_area
+ }
+}
+
+
+Woxvuhub_region = {
+ areas = {
+ Peljok_area
+ Muhoqxadop_area
+ Tuporod_area
+ Jabvoxaffec_area
+ Qollo_area
+ Webitetu_area
+ Celand_area
+ }
+}
+
+
+Qajeg_region = {
+ areas = {
+ Xilhax_area
+ Gulolho_area
+ Rubavra_area
+ Rewcoju_area
+ Qipehihu_area
+ Ruliv_area
+ Hammihwatxiwa_area
+ Hiduqiland_area
+ Yutmommo_area
+ }
+}
+
+
+Pazeyland_region = {
+ areas = {
+ Levzikmegxoxot_area
+ Zehtal_area
+ Mihoc_area
+ Dibfelmam_area
+ Wepan_area
+ Pezwuxfub_area
+ }
+}
+
+
+Haluzhoqse_region = {
+ areas = {
+ Kalced_area
+ Finovafezok_area
+ Lodetxe_area
+ Fucolun_area
+ Lorumvohruhot_area
+ Hehub_area
+ Hipfeptix_area
+ }
+}
+
+
+Xemijjezpuhec_region = {
+ areas = {
+ Niqjaqtebi_area
+ Kumugrisbac_area
+ Gibo_area
+ Yirdaxam_area
+ Cojjuvqif_area
+ Zutmiqmijcejabland_area
+ }
+}
+
+
+Pifopo_region = {
+ areas = {
+ Pilibivna_area
+ Motemi_area
+ Fodxuzhekqe_area
+ Ro_area
+ Fobiyalaf_area
+ Pedewexfu_area
+ Kumo_area
+ Forakiz_area
+ }
+}
+
+
+Kowalrarda_region = {
+ areas = {
+ Bezobepoland_area
+ Pevoland_area
+ Sucurxisfup_area
+ Mockalku_area
+ Feruxa_area
+ Nuyad_area
+ }
+}
+
+
+Captaqo_region = {
+ areas = {
+ Xomsokyic_area
+ Wafantizwa_area
+ Puxaczo_area
+ Luzukux_area
+ Tayogub_area
+ Cittuspic_area
+ }
+}
+
+
+Zoruxfaqe_region = {
+ areas = {
+ Pijazi_area
+ Fafef_area
+ Vuvsabhik_area
+ Dafzetrifland_area
+ Cebe_area
+ }
+}
+
+
+Co_region = {
+ areas = {
+ Cuypubelu_area
+ Vahmek_area
+ Kanceqamcod_area
+ Yemci_area
+ Narkabgocje_area
+ Posipkecgu_area
+ Qujorroj_area
+ }
+}
+
+
+Mibsafu_region = {
+ areas = {
+ Cuhyonedug_area
+ Duqmu_area
+ Xafmehikyis_area
+ Namaj_area
+ Wolojba_area
+ Jubokohpezamland_area
+ }
+}
+
+
+Cideni_region = {
+ areas = {
+ Yujnaj_area
+ Voqarajom_area
+ Ferzawep_area
+ Wemuyuxroco_area
+ Jeyvacakland_area
+ Potoqtaxoj_area
+ Wikhocicbor_area
+ }
+}
+
+
+Qogifuz_region = {
+ areas = {
+ Joftij_area
+ Pevvo_area
+ Soj_area
+ Bu_area
+ Wafmaje_area
+ Bujloland_area
+ Ji_area
+ }
+}
+
+
+Mewxoberaw_region = {
+ areas = {
+ Nosrogvew_area
+ Suvoqku_area
+ Jevgad_area
+ Korlibfoyis_area
+ Vurqohu_area
+ }
+}
+
+
+Xazudwi_region = {
+ areas = {
+ Hapxuhsejrov_area
+ Luponbi_area
+ Giq_area
+ Puq_area
+ Luhrussajeq_area
+ Xumemo_area
+ Ponevrel_area
+ Yexoyavci_area
+ }
+}
+
+
+Pidmemodland_region = {
+ areas = {
+ He_area
+ Dogikhub_area
+ Debba_area
+ Padav_area
+ Wimzileyland_area
+ Wenwogi_area
+ Gomedujpog_area
+ Xetqiw_area
+ Bataland_area
+ }
+}
+
+
+Fadsuzyunxik_region = {
+ areas = {
+ Hubuhi_area
+ Wubwiland_area
+ Yosodlixco_area
+ Xedefbixa_area
+ Jevaqudji_area
+ Bemsutrib_area
+ }
+}
+
+
+Diphehifiland_region = {
+ areas = {
+ Wurehxasu_area
+ Pepxu_area
+ Zerev_area
+ Zozdaluco_area
+ Fur_area
+ Vugeja_area
+ }
+}
+
+
+Yokna_region = {
+ areas = {
+ Medsuzna_area
+ Xeho_area
+ Cuqip_area
+ Cutaldo_area
+ Pintuhme_area
+ Kaciqmu_area
+ Qeleclu_area
+ Hosik_area
+ }
+}
+
+
+Vulapif_region = {
+ areas = {
+ Nodac_area
+ Quxahzum_area
+ Bohtir_area
+ Fe_area
+ Voyelpurwaland_area
+ }
+}
+
+
+Zofwaxfiznu_region = {
+ areas = {
+ Fenavroq_area
+ Tohzojin_area
+ Caynosa_area
+ Fopwumsaland_area
+ Fozoxafnaxi_area
+ Kegezyudme_area
+ }
+}
+
+
+Huland_region = {
+ areas = {
+ Yexfepe_area
+ Gelijju_area
+ Qedexur_area
+ Hedmixliz_area
+ Xizehupri_area
+ Waga_area
+ Rickirru_area
+ }
+}
+
+
+Sosokaq_region = {
+ areas = {
+ Nofutecinland_area
+ Vajdamda_area
+ Duwbol_area
+ Nipecmusi_area
+ Ditok_area
+ Gutrivhaf_area
+ }
+}
+
+
+Sesejinsez_region = {
+ areas = {
+ Luvigja_area
+ Nipzayuzle_area
+ Nahehyu_area
+ Lajuxi_area
+ Vefig_area
+ }
+}
+
+
+Catcasahon_region = {
+ areas = {
+ Wedyijze_area
+ Lefozzok_area
+ Pihzizland_area
+ Fuxazeko_area
+ Tofroniq_area
+ Nebizapok_area
+ Siqugxivit_area
+ Hohbukxiw_area
+ }
+}
+
+
+Qiv_region = {
+ areas = {
+ Kitzim_area
+ Zadbop_area
+ Wajwoland_area
+ Hihepas_area
+ Noyfomevoj_area
+ Futpoxvux_area
+ }
+}
+
+
+Hennizdozland_region = {
+ areas = {
+ Mifodsefxi_area
+ Waqpursogkov_area
+ Loxxegupusuv_area
+ Docideh_area
+ Lawgagza_area
+ Jigpacwes_area
+ Gehiru_area
+ Viniybuku_area
+ Wutfopo_area
+ }
+}
+
+
+Meteq_region = {
+ areas = {
+ Laqhiru_area
+ Hicepovna_area
+ Kenekucbi_area
+ Powxegkuq_area
+ Nowoste_area
+ Filxe_area
+ Jidyasugi_area
+ Hico_area
+ Wokafti_area
+ }
+}
+
+
+Toke_region = {
+ areas = {
+ Kituyuke_area
+ Layzem_area
+ Kodhajpubwif_area
+ Buqa_area
+ Merisvuj_area
+ Belosojye_area
+ Daxzol_area
+ }
+}
+
+
+Dofbefa_region = {
+ areas = {
+ Vajjitguz_area
+ Qewwubofuket_area
+ Belzelok_area
+ Zawteyricefcuy_area
+ Rexebiland_area
+ }
+}
+
+
+Tufevog_region = {
+ areas = {
+ Kawza_area
+ Quzuyfokiz_area
+ Lutzu_area
+ Qaszela_area
+ Sexjiqowgiv_area
+ Wocroqela_area
+ Holci_area
+ }
+}
+
+
+Bahvohlizland_region = {
+ areas = {
+ Pudumrupland_area
+ Lesqo_area
+ Wepoyeyo_area
+ Gudxajoy_area
+ Biqcupadivox_area
+ }
+}
+
+
+Pugotikolkox_region = {
+ areas = {
+ Sisyanleh_area
+ Cekmijsac_area
+ Lujpexjekland_area
+ Qimrafijland_area
+ Neliv_area
+ Wera_area
+ }
+}
+
+
+Wajow_region = {
+ areas = {
+ Jiharuzland_area
+ Qebopyupzah_area
+ Gepka_area
+ Fudaheq_area
+ Picevuhor_area
+ Sorfuyosdug_area
+ Xamalhow_area
+ }
+}
+
+
+Babevuland_region = {
+ areas = {
+ Savcemyikwah_area
+ Xasqakfav_area
+ Regeland_area
+ Kowe_area
+ Cuquh_area
+ Mukokzisix_area
+ Pakkuvbo_area
+ Cazrisoj_area
+ Tipdafwoland_area
+ }
+}
+
+
+Rosyobe_region = {
+ areas = {
+ Gojyijaqrax_area
+ Muvfuxtegnir_area
+ Yuzwec_area
+ Hek_area
+ Hacradfa_area
+ Kazibotesru_area
+ Huvmizfi_area
+ Reqwedhu_area
+ Moju_area
+ }
+}
+
+
+Zodo_region = {
+ areas = {
+ Meyiginip_area
+ Bofavcepland_area
+ Mufcicat_area
+ Hubmidvultitland_area
+ Nome_area
+ Rurutxenfa_area
+ Kasxatcifoxxa_area
+ Hiwland_area
+ Le_area
+ }
+}
+
+
+Kod_region = {
+ areas = {
+ Zolu_area
+ Mogcitil_area
+ Pelsof_area
+ Fehxaqsoq_area
+ Wifhoxuyvi_area
+ Lurnur_area
+ Zuthospem_area
+ }
+}
+
+
+Ti_region = {
+ areas = {
+ Jagusix_area
+ Lawimugal_area
+ Vewpuyawxab_area
+ Kezyuxzama_area
+ Husbalisnob_area
+ Wirjo_area
+ Pixivti_area
+ Leslokfuh_area
+ }
+}
+
+
+Nibbokxofu_region = {
+ areas = {
+ Ribiyku_area
+ Gava_area
+ Doqoy_area
+ Weccihuydas_area
+ Cozcosnupaf_area
+ }
+}
+
+
+Sut_region = {
+ areas = {
+ Hate_area
+ Mowonuland_area
+ Fifojaqaland_area
+ Qasopovac_area
+ Qoqdoduqeh_area
+ Komayid_area
+ Nizsiw_area
+ Yecma_area
+ Letpirolti_area
+ }
+}
+
+
+Yohbeju_region = {
+ areas = {
+ Jipunjaq_area
+ Goho_area
+ Kafamqosix_area
+ Qadamqo_area
+ Tavliqejlub_area
+ Xuzi_area
+ Hibzoxland_area
+ }
+}
+
+
+Sajpoy_region = {
+ areas = {
+ Hesyuzepredviland_area
+ Gici_area
+ Munqipolur_area
+ Zeytafseduy_area
+ Qisbezuwayit_area
+ Qonutcuf_area
+ Libucsibe_area
+ }
+}
+
+
+Texubeypir_region = {
+ areas = {
+ Setjode_area
+ Pen_area
+ Becawo_area
+ Zinyukowoy_area
+ Pegomru_area
+ Yowegaf_area
+ Rukyunon_area
+ Yupbarbozi_area
+ }
+}
+
+
+Daklafso_region = {
+ areas = {
+ Gifredyitot_area
+ Yigzegvi_area
+ Nipku_area
+ Gonpiqsi_area
+ Hutaydu_area
+ Yuzzar_area
+ Nifamvaro_area
+ }
+}
+
+
+Yettego_region = {
+ areas = {
+ Yavib_area
+ Ruqkosaz_area
+ Biz_area
+ Noymiland_area
+ Qosfiyiq_area
+ }
+}
+
+
+Vovebva_region = {
+ areas = {
+ Poqjufqet_area
+ Juhix_area
+ Gegdoscor_area
+ Hekqowpogux_area
+ Xib_area
+ Bizzuvixve_area
+ Jixexo_area
+ }
+}
+
+
+Jokozavfumev_region = {
+ areas = {
+ Taxgamju_area
+ Yefve_area
+ Xoshe_area
+ Nebruhanbipo_area
+ Jawnoyu_area
+ Vimkerten_area
+ Lohfibubland_area
+ Xixefajku_area
+ Lambeland_area
+ }
+}
+
+
+Gawfewqokmey_region = {
+ areas = {
+ Laqi_area
+ Torci_area
+ Tisimeyoz_area
+ Qayere_area
+ Gera_area
+ Yisxeldobxub_area
+ }
+}
+
+
+Zequrjipew_region = {
+ areas = {
+ Giqjer_area
+ Midepa_area
+ Pat_area
+ Kufsekcowze_area
+ Ruzamenland_area
+ Hopumro_area
+ }
+}
+
+
+Yaqso_region = {
+ areas = {
+ Racya_area
+ Nac_area
+ Kiq_area
+ Ruqaxij_area
+ Netoca_area
+ Coypeday_area
+ Qorhune_area
+ Jinah_area
+ }
+}
+
+
+Yipep_region = {
+ areas = {
+ Guyi_area
+ Fucoq_area
+ Sadsoxijland_area
+ Lira_area
+ Vevo_area
+ Lanelnutrav_area
+ Nidmalloju_area
+ Hubyidum_area
+ Cirlexme_area
+ }
+}
+
+
+Juysa_region = {
+ areas = {
+ Qunwuppe_area
+ Birland_area
+ Wufegotser_area
+ Giyqapwoxoyruk_area
+ Ci_area
+ Juryidokvo_area
+ }
+}
+
+
+Nuqixeslu_region = {
+ areas = {
+ Tebsewpur_area
+ Saplohevufa_area
+ Gevonrikjo_area
+ Vexlayhaland_area
+ Benrenyoz_area
+ Wacsosna_area
+ Jintoy_area
+ Jeynojza_area
+ Zikgoples_area
+ }
+}
+
+
+Dive_region = {
+ areas = {
+ Dognavzudra_area
+ Gihyos_area
+ Yojer_area
+ Biqhiriw_area
+ Jevosaz_area
+ Seqha_area
+ Gatuwavbo_area
+ }
+}
+
+
+Neqmeke_region = {
+ areas = {
+ Yaldotmeb_area
+ Ko_area
+ Jic_area
+ Bufcadgiha_area
+ Pofqunzixyoland_area
+ Sadsuh_area
+ }
+}
+
+
+Yagiwewcod_region = {
+ areas = {
+ Meyigdiwow_area
+ Noxmudu_area
+ Nolni_area
+ Xackowog_area
+ Yemoland_area
+ }
+}
+
+
+Ze_region = {
+ areas = {
+ Huzidap_area
+ Wuwpacranbonir_area
+ Yosvo_area
+ Yoga_area
+ Guvi_area
+ Rolzoxgas_area
+ Komvimaqiv_area
+ Xengiwop_area
+ }
+}
+
+
+Yomigvi_region = {
+ areas = {
+ Tanas_area
+ Movixfo_area
+ Toffijpuranzop_area
+ Fefohoxubland_area
+ Vilajew_area
+ }
+}
+
+
+Tutaraki_region = {
+ areas = {
+ Gati_area
+ Zodorwu_area
+ Nadones_area
+ Lazjehucax_area
+ Serokdedehih_area
+ Hijebyov_area
+ }
+}
+
+
+Yegopbotozhih_region = {
+ areas = {
+ Saropnurfa_area
+ Jetesuntu_area
+ Xucopguze_area
+ Jufyoxevland_area
+ Xufcilo_area
+ Gapdockumjiland_area
+ Xefbisuxbeq_area
+ Xepqu_area
+ Wadid_area
+ }
+}
+
+
+Qonje_region = {
+ areas = {
+ Roxa_area
+ Nitomunux_area
+ Narzaqe_area
+ Dekwelqa_area
+ Watsiguh_area
+ Cajvotad_area
+ Yicvuwza_area
+ Picekuve_area
+ }
+}
+
+
+Bartu_region = {
+ areas = {
+ Qoculaj_area
+ Kiguzxuj_area
+ Wivo_area
+ Fivdobseh_area
+ Hejezipfa_area
+ Rutluwojiruv_area
+ Dijwoxsu_area
+ }
+}
+
+
+Xawezgoxqov_region = {
+ areas = {
+ Sepsiwozsinred_area
+ Woleyecyuy_area
+ Vagmawyud_area
+ Relebi_area
+ Wupyoypux_area
+ Xeyebxana_area
+ Hogicasfoggo_area
+ Qayimmap_area
+ }
+}
+
+
+Kajboqla_region = {
+ areas = {
+ Qofwad_area
+ Bulyut_area
+ Ven_area
+ Hakixyiland_area
+ Wavivqatbu_area
+ Domkaf_area
+ Susug_area
+ }
+}
+
+
+Xipdahaq_region = {
+ areas = {
+ Qerqenfuh_area
+ Hawlapog_area
+ Lagiqtoni_area
+ Qepxen_area
+ Konehduw_area
+ Hetihbov_area
+ Botzutpoftuland_area
+ }
+}
+
+
+Bocnowow_region = {
+ areas = {
+ Xe_area
+ Hajgeti_area
+ Nipagfup_area
+ Kecisdaland_area
+ Xigcammextu_area
+ Xaq_area
+ Yanazlizoz_area
+ Dumsahawo_area
+ Zoqqemudge_area
+ }
+}
+
+
+Hiwezsuwoj_region = {
+ areas = {
+ Rubazi_area
+ Voz_area
+ Qasdocxu_area
+ Vilzizuwsu_area
+ Lewo_area
+ }
+}
+
+
+Daqu_region = {
+ areas = {
+ Fovemland_area
+ Bekmesetekze_area
+ Wexenux_area
+ Hiland_area
+ Zof_area
+ Xufxi_area
+ Gevkoko_area
+ Jefo_area
+ Qifviqqar_area
+ }
+}
+
+
+Fantumagvo_region = {
+ areas = {
+ Batowu_area
+ Nemketfi_area
+ Zudaslepbuv_area
+ Lelipaveg_area
+ Mujewza_area
+ Tecto_area
+ Waq_area
+ Ruhuz_area
+ Biykubdor_area
+ }
+}
+
+
+Mijtovec_region = {
+ areas = {
+ Mirbedo_area
+ Keryoyafjev_area
+ Yapazadahu_area
+ Wer_area
+ Pojubun_area
+ }
+}
+
+
+Qeywipwo_region = {
+ areas = {
+ Zuxidi_area
+ Gomis_area
+ Junmajidxij_area
+ Pakasucgek_area
+ Set_area
+ Max_area
+ }
+}
+
+
+Kiwebatpocland_region = {
+ areas = {
+ Gixisoy_area
+ Vuhjoyo_area
+ Zopbeftex_area
+ Vocpodig_area
+ Suwgizvabukag_area
+ Kiheptox_area
+ }
+}
+
+
+Kevogkiye_region = {
+ areas = {
+ Baynaweryud_area
+ Ma_area
+ Ziggatahip_area
+ Rutupxuxmu_area
+ Curhon_area
+ Jicya_area
+ Jarirasev_area
+ Rodgonu_area
+ Pellapivaywo_area
+ }
+}
+
+
+Hetapak_region = {
+ areas = {
+ Lilulohfuh_area
+ Lela_area
+ Joxukriqu_area
+ Zo_area
+ Tohhofimsiland_area
+ Zoyehpibeyland_area
+ }
+}
+
+
+Fozkonim_region = {
+ areas = {
+ Kalxewa_area
+ Xeclupyigfek_area
+ Yaxanfuqroxland_area
+ Yujvi_area
+ Qahwamfo_area
+ }
+}
+
+
+Yijuge_region = {
+ areas = {
+ Fohkijmacju_area
+ Hiquratix_area
+ Qutvez_area
+ Pacorvudani_area
+ Tundizrac_area
+ }
+}
+
+
+Kexa_region = {
+ areas = {
+ Wikif_area
+ Noqle_area
+ Lonviqalcit_area
+ Woxsaberxapuc_area
+ Hotzijjuland_area
+ Ciwnanqal_area
+ Zil_area
+ Hegzifo_area
+ }
+}
+
+
+Wefakso_region = {
+ areas = {
+ Jecavland_area
+ Goxoc_area
+ Kiftu_area
+ Wasti_area
+ Hepqujdac_area
+ Kuvwizmon_area
+ }
+}
+
+
+Tinxaxolu_region = {
+ areas = {
+ Satlosqo_area
+ Haxwepreclagwix_area
+ Hikfunhu_area
+ Nabimyasnu_area
+ Cujkiv_area
+ Dujojiz_area
+ }
+}
+
+
+Purufya_region = {
+ areas = {
+ Sappe_area
+ Fasrazidme_area
+ Tizjedu_area
+ Cijkukikve_area
+ Nifu_area
+ Jokewzuybu_area
+ Ra_area
+ Yozza_area
+ Yehsubbir_area
+ }
+}
+
+
+Nimbak_region = {
+ areas = {
+ Zu_area
+ Pipgo_area
+ Cetzufcef_area
+ Jemyogome_area
+ Hubaqvomde_area
+ }
+}
+
+
+Dukawnep_region = {
+ areas = {
+ Sano_area
+ Zizzacne_area
+ Sucije_area
+ Toqji_area
+ Zoppuproho_area
+ }
+}
+
+
+Pobfokukuh_region = {
+ areas = {
+ Noku_area
+ Zegabkutmo_area
+ Fajeduheh_area
+ Vavxot_area
+ Vasiyhohusyus_area
+ Samjereland_area
+ }
+}
+
+
+Fadgeyu_region = {
+ areas = {
+ Puxhehi_area
+ Pofu_area
+ Pupyec_area
+ Qadhugenku_area
+ Hegifuyix_area
+ Mijzukak_area
+ Xecnulu_area
+ Fifzuqzucfal_area
+ }
+}
+
+
+Serujbo_region = {
+ areas = {
+ Zimrilkag_area
+ Lanpaxvecwom_area
+ Zoxivedya_area
+ Pussuzikxog_area
+ Guqaq_area
+ Cajayjawsep_area
+ Godyagyeq_area
+ Xigoland_area
+ }
+}
+
+
+Dag_region = {
+ areas = {
+ Xazam_area
+ Satzihi_area
+ Yehaqcosul_area
+ Tuhax_area
+ Lutugic_area
+ Piqihus_area
+ Munacbata_area
+ }
+}
+
+
+Qenjeji_region = {
+ areas = {
+ Lavi_area
+ Canuruxut_area
+ Degheyug_area
+ Zilfekap_area
+ Yulon_area
+ Cubkadgawa_area
+ Xijdafaf_area
+ Dazwekku_area
+ }
+}
+
+
+Pufpunzate_region = {
+ areas = {
+ Mugregwew_area
+ Hacujxipvaz_area
+ Majqozva_area
+ Wizedonu_area
+ Luda_area
+ Bequmun_area
+ Madegadit_area
+ }
+}
+
+
+Zuvdejnaxland_region = {
+ areas = {
+ Wijcolviqud_area
+ Cewuqwiptige_area
+ Bupiwi_area
+ Fivemkitko_area
+ Villiwge_area
+ Kifreqsevjuv_area
+ Nexfalekwu_area
+ }
+}
+
+
+Fokinmex_region = {
+ areas = {
+ Xolgomqufat_area
+ Ransofa_area
+ Pamcejdiw_area
+ Denmig_area
+ Nopwurtex_area
+ Dupajaxmu_area
+ Vosuv_area
+ }
+}
+
+
+Wafetofbedfabland_region = {
+ areas = {
+ Voxlagbod_area
+ Dover_area
+ Cajugnaf_area
+ Foxokuho_area
+ Cuxyin_area
+ Helomig_area
+ Pasu_area
+ }
+}
+
+
+Dezo_region = {
+ areas = {
+ Yawabziv_area
+ Littawboj_area
+ Picfeb_area
+ Sab_area
+ Cosriqsusxuv_area
+ Fadgehaw_area
+ Xoha_area
+ Vevu_area
+ }
+}
+
+
+Lepfatcic_region = {
+ areas = {
+ Kayejvusraland_area
+ Du_area
+ Humjizo_area
+ Fusci_area
+ Yub_area
+ Riwgenex_area
+ }
+}
+
+
+Cisaclo_region = {
+ areas = {
+ Vunberfa_area
+ Gajokuyzaland_area
+ Hugunor_area
+ Xamrugqiy_area
+ Yexmoref_area
+ Huqjo_area
+ Lambacpoje_area
+ }
+}
+
+
+Lohdezduli_region = {
+ areas = {
+ Nolornowro_area
+ Cozuqvitland_area
+ Cofqizzakqi_area
+ Wotayedba_area
+ Qevsuyo_area
+ Subkik_area
+ Woytuyaland_area
+ Kec_area
+ }
+}
+
+
+Viyoktaland_region = {
+ areas = {
+ Kilwujusa_area
+ Cuwuxru_area
+ Hukemuzumland_area
+ Domwa_area
+ Xemaklifsuz_area
+ Xo_area
+ }
+}
+
+
+Gabokepto_region = {
+ areas = {
+ Sijnagow_area
+ Bohana_area
+ Yurgis_area
+ Qusajirgok_area
+ Gehe_area
+ Qazayu_area
+ Faxcozsuwoh_area
+ Yehogxenwi_area
+ Kud_area
+ }
+}
+
+
+Vogaq_region = {
+ areas = {
+ Petnizov_area
+ Sihyon_area
+ Fot_area
+ Vavguqciqhu_area
+ Boxvekyegfe_area
+ Rutha_area
+ }
+}
+
+
+Xehigidja_region = {
+ areas = {
+ Hobroru_area
+ Zatsowguzland_area
+ Vohesub_area
+ Piyzayoc_area
+ Baqlayvituhu_area
+ Xotsixoret_area
+ Dudihpu_area
+ Mocufnuh_area
+ }
+}
+
+
+Lunantu_region = {
+ areas = {
+ Zubpalux_area
+ Cofeqmiy_area
+ Huvli_area
+ Mi_area
+ Yusirvubqov_area
+ Qeyxommi_area
+ Nelfasquvor_area
+ }
+}
+
+
+Cugwetuxiq_region = {
+ areas = {
+ Vuzevwoj_area
+ Venbeyoftetudland_area
+ Neykagu_area
+ Hedo_area
+ Fex_area
+ Lothadu_area
+ Misgenubdan_area
+ }
+}
+
+
+Sewha_region = {
+ areas = {
+ Hosbe_area
+ Jeqaqvonig_area
+ Tejoma_area
+ Lofcewcu_area
+ Hiyi_area
+ Hapnefeji_area
+ }
+}
+
+
+Cidenil_region = {
+ areas = {
+ Fuhoguviwu_area
+ Yihnuteyland_area
+ Qokzomland_area
+ Gijnonfuxduxwo_area
+ Yu_area
+ Yo_area
+ Mayo_area
+ Ginewyemumka_area
+ }
+}
+
+
+Sejikal_region = {
+ areas = {
+ Remifcuqnat_area
+ Buperibika_area
+ Cuhappezmi_area
+ Naxkih_area
+ Coqijwo_area
+ Babfecicugor_area
+ }
+}
+
+
+Fitegrotland_region = {
+ areas = {
+ Fucbobuygig_area
+ Zewquyazes_area
+ Sijijuwacki_area
+ Miho_area
+ Huxsugika_area
+ Hifiti_area
+ Doqxotu_area
+ }
+}
+
+
+Nukjeldux_region = {
+ areas = {
+ Bagankifsos_area
+ Vaxaxwoxhi_area
+ Co_area
+ Mufadreyar_area
+ Qayfomo_area
+ Gupmafi_area
+ Dunakvefah_area
+ Yorognuland_area
+ }
+}
+
+
+Hejem_region = {
+ areas = {
+ Senpic_area
+ Vukgosohi_area
+ Tiqewba_area
+ Gazzocpaxporra_area
+ Polleneb_area
+ Tozafhab_area
+ Tiyxuma_area
+ Hixdiypevi_area
+ }
+}
+
+
+Qotoyip_region = {
+ areas = {
+ Lodga_area
+ Senferyapvas_area
+ Wofe_area
+ Pitazhe_area
+ Pupozvawucat_area
+ Fuseb_area
+ Kejocland_area
+ Goqviwizanland_area
+ Tayojexmas_area
+ }
+}
+
+
+Tuwagiculand_region = {
+ areas = {
+ Fegpumcebe_area
+ Yakoyanakxol_area
+ Nerqangores_area
+ Capaymen_area
+ Tanxorzi_area
+ Muhesogland_area
+ Xefduz_area
+ }
+}
+
+
+Mufejakidgem_region = {
+ areas = {
+ Gelqi_area
+ Vohucoyajla_area
+ Supnagqalpe_area
+ Bazafvodac_area
+ Hifwisal_area
+ Telakwa_area
+ }
+}
+
+
+Hipquze_region = {
+ areas = {
+ Rupzaxdo_area
+ Tixisvi_area
+ Yiqafokyo_area
+ Lowjeg_area
+ Vonvuxu_area
+ Fafuju_area
+ Jodebyuk_area
+ Rohwuvxe_area
+ }
+}
+
+
+Sexartiv_region = {
+ areas = {
+ Bifnusedhar_area
+ Tudso_area
+ Norofvurcin_area
+ Buxu_area
+ Nexbalepcaf_area
+ Lasowi_area
+ }
+}
+
+
+Pigisbafzig_region = {
+ areas = {
+ Yessavjeczij_area
+ Sep_area
+ Wohanland_area
+ Deqidfuv_area
+ Gejmegko_area
+ La_area
+ }
+}
+
+
+Vuftoxomef_region = {
+ areas = {
+ Culora_area
+ Gaqyojexaqna_area
+ Rewlosugxunland_area
+ Cupiqawar_area
+ Qehmeynozo_area
+ Jefugatso_area
+ Ropa_area
+ }
+}
+
+
+Buwinjolbu_region = {
+ areas = {
+ Cudaxez_area
+ Din_area
+ Wevboxa_area
+ Cecoreland_area
+ Yizeland_area
+ Haxnap_area
+ }
+}
+
+
+Ziku_region = {
+ areas = {
+ Cuysebifup_area
+ Bomedqepga_area
+ Foqekughol_area
+ Texsa_area
+ Zozduku_area
+ }
+}
+
+
+Hikziwgujiqqih_region = {
+ areas = {
+ Dactihmuqov_area
+ Yuzuzcocboyriw_area
+ Lesfazuwland_area
+ Bihaqzehvu_area
+ Sojhonovi_area
+ Wurfesbeswes_area
+ Botland_area
+ }
+}
+
+
+Wirugjatoqre_region = {
+ areas = {
+ Jivi_area
+ Megfuh_area
+ Vagjevomli_area
+ Goyqobfi_area
+ Vinzevehra_area
+ Qubpipguv_area
+ Litnacojeb_area
+ }
+}
+
+
+Jibaz_region = {
+ areas = {
+ Relapa_area
+ Rutisibqe_area
+ Tenbosi_area
+ Peydupfaw_area
+ Veqmi_area
+ Vepi_area
+ }
+}
+
+
+Yedho_region = {
+ areas = {
+ Biqfeqakon_area
+ Qoyjuland_area
+ Guvopor_area
+ Cubejcipot_area
+ Pusdofitxeb_area
+ Tifmistu_area
+ Dosedwaxlate_area
+ }
+}
+
+
+Mehtoxe_region = {
+ areas = {
+ Bafwowkopu_area
+ Guxbemfa_area
+ Kafroh_area
+ Qexyopdi_area
+ Hoguk_area
+ }
+}
+
+
+Qajhefzaz_region = {
+ areas = {
+ Wiqlalul_area
+ Pocgozlo_area
+ Vowdiland_area
+ Vofohragyul_area
+ Fitoyni_area
+ Covzimbud_area
+ Habri_area
+ Mefvowo_area
+ }
+}
+
+
+Yordu_region = {
+ areas = {
+ Bunduland_area
+ Pubxeq_area
+ Nataxukgucnog_area
+ Loyuc_area
+ Yapacilland_area
+ }
+}
+
+
+Rayguqowvud_region = {
+ areas = {
+ Hupojak_area
+ Go_area
+ Qoqaneh_area
+ Xofeland_area
+ Gibimo_area
+ Xiqe_area
+ Sobaric_area
+ }
+}
+
+
+Qunza_region = {
+ areas = {
+ Tetrolqel_area
+ Pe_area
+ Nowwebsuyland_area
+ Nozoccap_area
+ Qayive_area
+ Gahyowew_area
+ Nosinagey_area
+ Fewbofujcuk_area
+ }
+}
+
+
+Taxiwqujak_region = {
+ areas = {
+ Fonayexland_area
+ Yerpiflu_area
+ Pirzis_area
+ Zoxizqub_area
+ Xuqfeycutuf_area
+ Lirhu_area
+ Kidoxigland_area
+ Tuyasi_area
+ }
+}
+
+
+Kuyikcijod_region = {
+ areas = {
+ Yaripo_area
+ Hejukuvovja_area
+ Huqjimuwso_area
+ Vipland_area
+ Copcovland_area
+ Bivabqa_area
+ Zuxqetic_area
+ Kuma_area
+ }
+}
+
+
+Ximid_region = {
+ areas = {
+ Seray_area
+ Midbih_area
+ Koqilpufland_area
+ Nobjengiymev_area
+ Tuzekoxdid_area
+ Pidtivunhus_area
+ Jitqoh_area
+ Bubesgi_area
+ }
+}
+
+
+Sevjupkid_region = {
+ areas = {
+ Molwanwu_area
+ Yepoqaland_area
+ Vuwfuhhub_area
+ Porfak_area
+ Ve_area
+ }
+}
+
+
+Cakubcopej_region = {
+ areas = {
+ Tuzagpeland_area
+ Bejipvataland_area
+ Quxogland_area
+ Kaciyvuvkec_area
+ Kibu_area
+ }
+}
+
+
+Mu_region = {
+ areas = {
+ Macfimip_area
+ Qespeviq_area
+ Qex_area
+ Parma_area
+ Cuyi_area
+ }
+}
+
+
+Kataclo_region = {
+ areas = {
+ Ruyiwux_area
+ Qoyurivcotfu_area
+ Liscipod_area
+ Vinu_area
+ Podej_area
+ Nibol_area
+ Copecwedovsix_area
+ }
+}
+
+
+Rukexe_region = {
+ areas = {
+ Deygofuves_area
+ Foholand_area
+ Jaxe_area
+ Qeledep_area
+ Ximrutpa_area
+ Xu_area
+ Worecike_area
+ Mokpu_area
+ }
+}
+
+
+Nayjaji_region = {
+ areas = {
+ Mutogcokze_area
+ Qidqor_area
+ Zemcufnamland_area
+ Vojozet_area
+ Dasub_area
+ Komxasguy_area
+ Lebvipland_area
+ Ni_area
+ }
+}
+
+
+Ya_region = {
+ areas = {
+ Yeyfijwe_area
+ Bottupnecu_area
+ Ju_area
+ Yuqad_area
+ Nikpafoc_area
+ Vuhnuhvihjuk_area
+ Gavmin_area
+ }
+}
+
+
+Reyilyoxe_region = {
+ areas = {
+ Vaczihemurniland_area
+ Govu_area
+ Demsev_area
+ Lovlefohef_area
+ Tigpapbo_area
+ Nemhoh_area
+ Pogelam_area
+ Cocxaccoz_area
+ }
+}
+
+
+Jighatqo_region = {
+ areas = {
+ Nujretloy_area
+ Kuhkanuypa_area
+ Solile_area
+ Fadexec_area
+ Timebihko_area
+ Peland_area
+ Jayo_area
+ }
+}
+
+
+Nufqayneland_region = {
+ areas = {
+ Netepece_area
+ Higi_area
+ Nodugu_area
+ Bijloqjeb_area
+ Julcazwafanland_area
+ Dehso_area
+ }
+}
+
+
+Veyocbiy_region = {
+ areas = {
+ Mehu_area
+ Surdesojland_area
+ Zezciland_area
+ Quland_area
+ Geylehu_area
+ Gewqahmamacjo_area
+ Hemnokedut_area
+ Wuwbelurom_area
+ Tilcuhsoland_area
+ }
+}
+
+
+Zobu_region = {
+ areas = {
+ Keghomne_area
+ Xibud_area
+ Fikiku_area
+ Vopuxer_area
+ Telezbaj_area
+ Xonecenrup_area
+ Sufumtu_area
+ Jaledtexim_area
+ Laqluqpit_area
+ }
+}
+
+
+Socebogol_region = {
+ areas = {
+ Pedufaw_area
+ Mosubot_area
+ Mipnuq_area
+ Goxfogbojta_area
+ Mibab_area
+ Hiybogo_area
+ Yaluvugivsuh_area
+ }
+}
+
+
+Jizmewzocu_region = {
+ areas = {
+ Dodne_area
+ Goqe_area
+ Jumhoygenro_area
+ Pajdo_area
+ Zixnaykeca_area
+ Kocmes_area
+ Tutufowpur_area
+ Fudqawhoh_area
+ }
+}
+
+
+Tozmik_region = {
+ areas = {
+ Heqdamfo_area
+ Cimaflupho_area
+ Zazyubwo_area
+ Wujepi_area
+ Penwejye_area
+ }
+}
+
+
+Bezuy_region = {
+ areas = {
+ Xewina_area
+ Me_area
+ Noqevunuw_area
+ Woxe_area
+ Xetri_area
+ }
+}
+
+
+Vedifvi_region = {
+ areas = {
+ Xakirac_area
+ Ritqujtakyawland_area
+ Dudguhfuf_area
+ Jumolopteland_area
+ Bavaxa_area
+ Nazju_area
+ }
+}
+
+
+Xe_region = {
+ areas = {
+ Nexwuznu_area
+ Xadca_area
+ Zuthit_area
+ Demyexobna_area
+ Vinurwawu_area
+ Muvzi_area
+ }
+}
+
+
+Wucfo_region = {
+ areas = {
+ Gaqupreymex_area
+ Mawmevland_area
+ Fuxjevyopsufac_area
+ Yozirsoj_area
+ Pudimiv_area
+ Lipefip_area
+ Towziziq_area
+ Sicrabrur_area
+ Xoyiqunvon_area
+ }
+}
+
+
+Nezsixanul_region = {
+ areas = {
+ Tixye_area
+ Nuzlapje_area
+ Jaduhlatvac_area
+ Papkuksu_area
+ Maduqod_area
+ Xuwjigsalpi_area
+ Nuhupuw_area
+ Wicjohlu_area
+ }
+}
+
+
+Licoheyland_region = {
+ areas = {
+ Dadafulland_area
+ Wawqa_area
+ Giskilciko_area
+ Hekmebfudfelo_area
+ Xegitcuza_area
+ Kuneva_area
+ Wiland_area
+ Xadu_area
+ }
+}
+
+
+Puluggek_region = {
+ areas = {
+ Qohcow_area
+ Gakkugucqok_area
+ Mohedef_area
+ Movwapton_area
+ Gopmijyi_area
+ Muzoqmivpu_area
+ }
+}
+
+
+Musconaco_region = {
+ areas = {
+ Mubpu_area
+ Fiqkasasi_area
+ Nujibjanibe_area
+ Koszo_area
+ Nisagpozgo_area
+ Daczahri_area
+ Hoboznuvi_area
+ Ceqsuhag_area
+ Bicu_area
+ }
+}
+
+
+Tepba_region = {
+ areas = {
+ Kusi_area
+ Bapzecfodtuha_area
+ Baxoq_area
+ Huziy_area
+ Kixoral_area
+ Burebpe_area
+ Gijewduwhuk_area
+ Cabik_area
+ }
+}
+
+
+Geqir_region = {
+ areas = {
+ Yowcurqaltu_area
+ Qotigopjar_area
+ Fepulwuj_area
+ Jizuronep_area
+ Xursilde_area
+ Vapsegnif_area
+ }
+}
+
+
+Leg_region = {
+ areas = {
+ Lawfuk_area
+ Niji_area
+ Fagqoh_area
+ Henmuqi_area
+ Padzuf_area
+ Vekkiloxcawpey_area
+ Xak_area
+ Vihtiybafaqor_area
+ }
+}
+
+
+Zofwiryoqdo_region = {
+ areas = {
+ Hoqpovmiyme_area
+ Cerec_area
+ Hemaz_area
+ Behip_area
+ Jadneryinland_area
+ Liwus_area
+ Nivori_area
+ Kesox_area
+ }
+}
+
+
+Pelberpuh_region = {
+ areas = {
+ Lajocrohdi_area
+ Xobmumland_area
+ Figojle_area
+ Bapu_area
+ Qibikgevgu_area
+ Pew_area
+ }
+}
+
+
+Modubuland_region = {
+ areas = {
+ Gejid_area
+ Vodummap_area
+ Vutizafow_area
+ Guwfajop_area
+ Qaxeqlu_area
+ Zexjog_area
+ Biyevcoda_area
+ }
+}
+
+
+Zuxudjib_region = {
+ areas = {
+ Tayfoqgug_area
+ Lugdakdes_area
+ Limatan_area
+ Sucebuza_area
+ Canupoydij_area
+ Nogro_area
+ }
+}
+
+
+Lazicged_region = {
+ areas = {
+ Xibafum_area
+ Gikjinat_area
+ Megbok_area
+ Wibti_area
+ Beqmemeq_area
+ Kuvasobyayiw_area
+ Jinanac_area
+ }
+}
+
+
+Dot_region = {
+ areas = {
+ Yifqofaw_area
+ Bicjenbox_area
+ Pegtogxes_area
+ Qirpo_area
+ Liluyo_area
+ Jabyohirur_area
+ Meberxuwo_area
+ Bolorfaw_area
+ }
+}
+
+
+Zirwazhekzol_region = {
+ areas = {
+ Tijok_area
+ Liyrosce_area
+ Rarpavdamde_area
+ Rado_area
+ Diqitceland_area
+ Tunregpave_area
+ Zawyadgoqfu_area
+ Nuzbe_area
+ }
+}
+
+
+Limcof_region = {
+ areas = {
+ Sivikviy_area
+ Xetkimimod_area
+ Jiweya_area
+ Zasol_area
+ Kixil_area
+ }
+}
+
+
+Xitay_region = {
+ areas = {
+ Ruge_area
+ Kegi_area
+ Revagpire_area
+ Xijjumholand_area
+ Polkicbur_area
+ Nifguqze_area
+ }
+}
+
+
+Buqerem_region = {
+ areas = {
+ Wisalol_area
+ Cejput_area
+ Cukoy_area
+ Gurqu_area
+ Xedejcini_area
+ Reso_area
+ Mijihbuland_area
+ }
+}
+
+
+Yijpez_region = {
+ areas = {
+ Warevxum_area
+ Hiw_area
+ Fureffeme_area
+ Jixyezza_area
+ Rijaxjoszivna_area
+ }
+}
+
+
+Ziqsipqij_region = {
+ areas = {
+ Xebohzow_area
+ Zopvewxa_area
+ Poh_area
+ Powandaw_area
+ Zixuya_area
+ }
+}
+
+
+Coqvunguk_region = {
+ areas = {
+ Vevtej_area
+ Wovxiru_area
+ Vahfe_area
+ Cuducqoh_area
+ Payalwupo_area
+ Boyoland_area
+ Bebkotup_area
+ Zefogiland_area
+ }
+}
+
+
+Yosfo_region = {
+ areas = {
+ Rojafevhi_area
+ Danfedkuland_area
+ Jodtelfox_area
+ Mabavko_area
+ Koluftib_area
+ }
+}
+
+
+Vawimiwland_region = {
+ areas = {
+ Vijland_area
+ Qamzazu_area
+ Dokupoli_area
+ Zema_area
+ Luhnalbo_area
+ Hiwonzajek_area
+ Xokunbu_area
+ }
+}
+
+
+Guqibiy_region = {
+ areas = {
+ Joxokkud_area
+ Sumluci_area
+ Dihmevbuw_area
+ Zamaxutqegland_area
+ Zamevmirxo_area
+ Nenoland_area
+ Wurvazdun_area
+ Lidaguk_area
+ Rofu_area
+ }
+}
+
+
+Qiqji_region = {
+ areas = {
+ Luyyigvugovnu_area
+ Zombuko_area
+ Mufeh_area
+ Yiqriggixus_area
+ Xutezih_area
+ Yorakjo_area
+ Terxir_area
+ Majfoxland_area
+ }
+}
+
+
+Ziccohu_region = {
+ areas = {
+ Vatbosoti_area
+ Vicxutxitland_area
+ Mobcuyiv_area
+ Quxfuvvaj_area
+ Vuqazland_area
+ Botfacufe_area
+ Voyojotland_area
+ Ritilfek_area
+ Qavxipi_area
+ }
+}
+
+
+Deg_region = {
+ areas = {
+ Muvgef_area
+ Retfiq_area
+ Xunrap_area
+ Duvizvorahland_area
+ Tanwu_area
+ Bumop_area
+ }
+}
+
+
+Gom_region = {
+ areas = {
+ Juzginze_area
+ Newo_area
+ Cetipicij_area
+ Wahsucland_area
+ Rukil_area
+ Furyajajulel_area
+ Gezqiget_area
+ Revavom_area
+ }
+}
+
+
+Zeyreyibgo_region = {
+ areas = {
+ Mugci_area
+ Tiyurmaxe_area
+ Dozhon_area
+ Peret_area
+ Fayimze_area
+ Luhrontapland_area
+ Joramvaya_area
+ Vipwidig_area
+ }
+}
+
+
+Gogtibirbegel_region = {
+ areas = {
+ Gevhuymira_area
+ Qaba_area
+ Gekva_area
+ Tiganhukpobil_area
+ Rezbewhub_area
+ Hibxow_area
+ Doxlo_area
+ Yomufolgaland_area
+ }
+}
+
+
+Faqeqa_region = {
+ areas = {
+ Japxotzusifland_area
+ Besbom_area
+ Vopqob_area
+ Zicelwupdoyla_area
+ Qiyagdem_area
+ Bocaland_area
+ Zucqen_area
+ Fulronesgok_area
+ }
+}
+
+
+Tilcagub_region = {
+ areas = {
+ Rubla_area
+ Wecqanuw_area
+ Qehxe_area
+ Cinudvavqil_area
+ Zabojkahayxofland_area
+ Zedmomda_area
+ Posden_area
+ Buroncif_area
+ Sawwewedsi_area
+ }
+}
+
+
+Komine_region = {
+ areas = {
+ Xihecahudxih_area
+ Waxe_area
+ Pozqajojland_area
+ Ricdomba_area
+ Peqbuyiten_area
+ Gerub_area
+ Hokime_area
+ }
+}
+
+
+Wiwuywidland_region = {
+ areas = {
+ Rafebutef_area
+ Gehalgetland_area
+ Qelibneland_area
+ Pik_area
+ Powtok_area
+ Fewuland_area
+ }
+}
+
+
+Wulom_region = {
+ areas = {
+ Yaza_area
+ Bazarru_area
+ Bafuland_area
+ Pocbamu_area
+ Fuwcokga_area
+ Cilunzujek_area
+ Quvesjolxac_area
+ Ruqat_area
+ Hesolok_area
+ }
+}
+
+
+Fiv_region = {
+ areas = {
+ Bizidilaland_area
+ Duxetewjev_area
+ Guzuyji_area
+ Moyirfiy_area
+ Hil_area
+ }
+}
+
+
+Buxlostinat_region = {
+ areas = {
+ Fodanawo_area
+ Miwamalzo_area
+ Xexzulcodnemland_area
+ Xizmivefid_area
+ Migxalzizyim_area
+ Hognakgozland_area
+ Qibakis_area
+ Layfoyigofland_area
+ Vuvonpodica_area
+ }
+}
+
+
+Memam_region = {
+ areas = {
+ Sot_area
+ Magowimmedi_area
+ Hihgazqid_area
+ Bolxoqaftuland_area
+ Lejyop_area
+ Tamimuw_area
+ Lorogu_area
+ }
+}
+
+
+Rumgabnosayhoj_region = {
+ areas = {
+ Fomyarvetumac_area
+ Waqixodla_area
+ Tuhxejfayi_area
+ Cefxanweqem_area
+ Lokdivdopjut_area
+ Muyhe_area
+ }
+}
+
+
+Jinliba_region = {
+ areas = {
+ Jaxputacaz_area
+ Tuhegkuv_area
+ Larowmonsi_area
+ Wixtegeqzim_area
+ Qihvurno_area
+ Matihjavcac_area
+ Fotmuhox_area
+ Lufpiwyevomac_area
+ }
+}
+
+
+Homerze_region = {
+ areas = {
+ Baja_area
+ Mop_area
+ Husripyu_area
+ Veqjamfinaland_area
+ Vuskuxaytiz_area
+ Xof_area
+ Vegumi_area
+ Lomri_area
+ }
+}
+
+
+Pixsudhumland_region = {
+ areas = {
+ Xurxajpu_area
+ Be_area
+ Vuzbap_area
+ Heh_area
+ Wakoh_area
+ }
+}
+
+
+Kimaland_region = {
+ areas = {
+ Kuxajup_area
+ Harox_area
+ Fezdevuland_area
+ Fukvar_area
+ Fi_area
+ Meljonokod_area
+ Seyepo_area
+ Xazimluzland_area
+ Daqgegew_area
+ }
+}
+
+
+Cedbone_region = {
+ areas = {
+ Dabillu_area
+ Xumukuq_area
+ Gacifacfox_area
+ Haka_area
+ Buxbo_area
+ Yefu_area
+ }
+}
+
+
+Hijoyeyji_region = {
+ areas = {
+ Xuxpocughaguv_area
+ Cafiyxo_area
+ Ganfugholand_area
+ Judbidnejo_area
+ Martofkeh_area
+ Galruvyojxu_area
+ }
+}
+
+
+Nihateba_region = {
+ areas = {
+ Guwutmel_area
+ Tecilaturav_area
+ Baxyaccepopland_area
+ Dikugavo_area
+ Zuweblamuw_area
+ Naxettun_area
+ Liyukqelom_area
+ Metdapa_area
+ Wavinti_area
+ }
+}
+
+
+Rezadposboj_region = {
+ areas = {
+ Yigyu_area
+ Yap_area
+ Mexuqa_area
+ Safu_area
+ Jabih_area
+ Gofu_area
+ }
+}
+
+
+Seru_region = {
+ areas = {
+ Joyojosas_area
+ Haxsonhe_area
+ Vuyeziland_area
+ Bikfi_area
+ Terpeland_area
+ }
+}
+
+
+Fa_region = {
+ areas = {
+ Zaqqor_area
+ Mizmilfi_area
+ Kimqojpefqo_area
+ Gajland_area
+ Xir_area
+ Daxizland_area
+ Xigef_area
+ }
+}
+
+
+Vumipetek_region = {
+ areas = {
+ Fibdimqotnira_area
+ Kaxamoq_area
+ Vumaland_area
+ Qivcarlival_area
+ Dakoljudi_area
+ Jecewruxi_area
+ Gocutwuni_area
+ Rampakacix_area
+ }
+}
+
+
+Pozqoha_region = {
+ areas = {
+ Nuzfax_area
+ Puraggeland_area
+ Hogbiz_area
+ Yotifdiw_area
+ Wapapnamuqil_area
+ Dulo_area
+ }
+}
+
+
+Buxafi_region = {
+ areas = {
+ Yecux_area
+ Yuruw_area
+ Tupunidfi_area
+ Cubihamkaland_area
+ Giyvot_area
+ Zutxuya_area
+ Yunsucceb_area
+ Darkukpeland_area
+ Tixejni_area
+ }
+}
+
+
+Pohepo_region = {
+ areas = {
+ Pulazo_area
+ Baj_area
+ Ruvutnel_area
+ Nihrawacland_area
+ Mufyavfoxa_area
+ Fijpaxa_area
+ Qikam_area
+ }
+}
+

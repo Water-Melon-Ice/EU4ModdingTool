@@ -1,0 +1,25 @@
+width = 128
+height = 128
+max_provinces  = 494
+
+sea_starts  = {1 2 3 4 5 9 15 16 18 29 30 33 35 40 43 45 47 48 52 53 59 67 70 74 76 77 81 83 88 95 98 100 102 103 130 142 158 169 208 210 212 221 226 228 229 232 233 239 245 247 256 259 262 263 267 277 286 290 292 294 295 296 297 299 304 307 309 313 315 316 317 320 321 325 326 329 334 335 336 341 342 344 353 360 364 377 378 382 402 405 410 427 428 432 435 436 445 452 457 481}
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "heightmap.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "region.txt"
+superregion = "superregion.txt"
+area = "area.txt"
+provincegroup = "provincegroup.txt"
+ambient_object = "ambient_object.txt"
+seasons = "seasons.txt"
+trade_winds = "trade_winds.txt"
+
+tree = { 3 4 7 10 }

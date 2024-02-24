@@ -1,0 +1,647 @@
+Wopameli_superregion = {
+ Cocexiy_region
+ Picson_region
+ Tarovidhek_region
+}
+
+Fiyjuqoz_superregion = {
+ Wigifwec_region
+ Fedewyi_region
+ Zepnorwin_region
+ Dapultenzun_region
+ Vunojcisin_region
+}
+
+Macpeland_superregion = {
+ Vekguxumqon_region
+ Dumebgokwi_region
+ Dalpoppuhcikin_region
+ Telnixi_region
+ Nesobi_region
+}
+
+Luyyaffokon_superregion = {
+ Modhezoxland_region
+ Facsit_region
+ Rocarhezculand_region
+ Huccimcob_region
+ Waromwig_region
+}
+
+Tehelyo_superregion = {
+ Yadi_region
+ Xuqyive_region
+ Hovojbob_region
+ Fobidfur_region
+}
+
+Vofidobu_superregion = {
+ Huq_region
+ Jokofne_region
+ Soyuh_region
+ Hoqtuseland_region
+ Mubeland_region
+}
+
+Motedfalo_superregion = {
+ Gozotzax_region
+ Toyamakland_region
+ Yujayzep_region
+ Yidoyaf_region
+ Pofpofland_region
+}
+
+Mum_superregion = {
+ Cuhzucbonom_region
+ Bofukay_region
+ Warevaj_region
+}
+
+Woyziboytup_superregion = {
+ Mulxayi_region
+ Fuxtesrucvi_region
+ Dohub_region
+}
+
+Yelxog_superregion = {
+ Hakusdul_region
+ Qovzacpop_region
+ Yaxgepepkuh_region
+ Yipcujinnif_region
+}
+
+Tuxgedkog_superregion = {
+ Laynesapgo_region
+ Normujse_region
+ Joxu_region
+ Dubundexan_region
+}
+
+Zigokliy_superregion = {
+ Zulecfatob_region
+ Fesjem_region
+ Vumsa_region
+}
+
+Ruzufcumland_superregion = {
+ Lexoqut_region
+ Lucu_region
+ Wisowsowjaf_region
+ Dujowo_region
+ Gohwefupi_region
+}
+
+Jujopqovigiland_superregion = {
+ Cihhaz_region
+ Qapjipawzizxi_region
+ Nusqemwoq_region
+}
+
+Foqi_superregion = {
+ Hibica_region
+ Puyjexsuhe_region
+ Babucririyland_region
+ Vexdohedwidul_region
+ Zuvwiyawof_region
+}
+
+Visevoru_superregion = {
+ Jutyuyimjuv_region
+ Qadpafsutjuvland_region
+ Miwdaluni_region
+}
+
+Gorfegginwo_superregion = {
+ Gesudo_region
+ Fadinzessoy_region
+ Cuhtuxfazov_region
+ Tipvuyirfu_region
+ Melekunland_region
+}
+
+Rebsabmo_superregion = {
+ Tudcitpe_region
+ Kofingo_region
+ Bi_region
+ Govxagigvogland_region
+ Mogekwasip_region
+}
+
+Votvatijqi_superregion = {
+ Popbeco_region
+ Losuhma_region
+ Xodidkiwbo_region
+ Cuyemte_region
+ Zaxqu_region
+}
+
+Qe_superregion = {
+ Memu_region
+ Lanno_region
+ Supukva_region
+ Xunofqoqo_region
+ Citpolxek_region
+}
+
+Sozwo_superregion = {
+ Giqaz_region
+ Tacmig_region
+ Yefolmasrex_region
+ Fehnimdubu_region
+}
+
+Xomu_superregion = {
+ Fadcejxej_region
+ Dexsufdeju_region
+ Vaybutiwa_region
+ Qahus_region
+}
+
+Najiqneh_superregion = {
+ Bisbempikland_region
+ Basjitijozo_region
+ Dicig_region
+}
+
+Hedehmasmut_superregion = {
+ Dej_region
+ Fuqtavokuki_region
+ Zadiqlaqah_region
+ Ledu_region
+}
+
+Cenolyaj_superregion = {
+ Wokivwacbet_region
+ Mojunofco_region
+ Xovevvohaj_region
+ Wexqiwdiw_region
+}
+
+Cawitquxzo_superregion = {
+ Jos_region
+ Jadi_region
+ Yixgasan_region
+ Bakor_region
+}
+
+Hesesitland_superregion = {
+ Heyupguve_region
+ Qinovujka_region
+ Tiveqva_region
+ Reyi_region
+ Zegofpuli_region
+}
+
+Xuxay_superregion = {
+ Nedeyu_region
+ Gahu_region
+ Yiqyu_region
+}
+
+Xatiwe_superregion = {
+ Tulgulodem_region
+ Rejab_region
+ Vuv_region
+ Nonacpapqar_region
+}
+
+Wefo_superregion = {
+ Huvyas_region
+ Povyuvaland_region
+ Socatnenag_region
+ Vugucu_region
+ Vanas_region
+}
+
+Ruvorib_superregion = {
+ Zuwcifihland_region
+ Zedcir_region
+ Fidokoxoj_region
+}
+
+Hepyarala_superregion = {
+ Gogjifodnoy_region
+ Hi_region
+ Loracagxop_region
+ Lehis_region
+}
+
+Lugeq_superregion = {
+ Jucyutvoland_region
+ Serbero_region
+ Dokgo_region
+ Bahdipa_region
+ Rohi_region
+}
+
+Caxug_superregion = {
+ Kuvuqhe_region
+ Wirad_region
+ Havxi_region
+}
+
+Vuhwifatu_superregion = {
+ Zajninrofog_region
+ Bobayikbo_region
+ Culpu_region
+ Sefucland_region
+}
+
+Fakyiri_superregion = {
+ Fizaf_region
+ Dagciruxlec_region
+ Zojaland_region
+ Qimosland_region
+}
+
+Sonwazwetay_superregion = {
+ Yujpeti_region
+ Lisrejcoz_region
+ Miko_region
+}
+
+Citcaboj_superregion = {
+ Zuxquhuvjowko_region
+ Viqmeta_region
+ Holu_region
+ Mi_region
+ Rulma_region
+}
+
+Machuland_superregion = {
+ Cedni_region
+ Nenmatvah_region
+ Muftopnoland_region
+ Disdehsumic_region
+ Buladochibland_region
+}
+
+Qufed_superregion = {
+ Dojapcosiy_region
+ Moyacroc_region
+ Xecdetup_region
+ Nuslises_region
+ Jub_region
+}
+
+Ciggo_superregion = {
+ Dopnenhacwi_region
+ Yepuyus_region
+ Woxvuhub_region
+}
+
+Mehwazesaz_superregion = {
+ Qajeg_region
+ Pazeyland_region
+ Haluzhoqse_region
+}
+
+Geqpivas_superregion = {
+ Xemijjezpuhec_region
+ Pifopo_region
+ Kowalrarda_region
+}
+
+Bewijwahland_superregion = {
+ Captaqo_region
+ Zoruxfaqe_region
+ Co_region
+}
+
+Labsukdik_superregion = {
+ Mibsafu_region
+ Cideni_region
+ Qogifuz_region
+ Mewxoberaw_region
+}
+
+Worhuhab_superregion = {
+ Xazudwi_region
+ Pidmemodland_region
+ Fadsuzyunxik_region
+}
+
+Tilyeland_superregion = {
+ Diphehifiland_region
+ Yokna_region
+ Vulapif_region
+ Zofwaxfiznu_region
+ Huland_region
+}
+
+Lineland_superregion = {
+ Sosokaq_region
+ Sesejinsez_region
+ Catcasahon_region
+ Qiv_region
+}
+
+Qonbuwlevicxet_superregion = {
+ Hennizdozland_region
+ Meteq_region
+ Toke_region
+ Dofbefa_region
+}
+
+Du_superregion = {
+ Tufevog_region
+ Bahvohlizland_region
+ Pugotikolkox_region
+ Wajow_region
+ Babevuland_region
+}
+
+Go_superregion = {
+ Rosyobe_region
+ Zodo_region
+ Kod_region
+}
+
+Pewoqume_superregion = {
+ Ti_region
+ Nibbokxofu_region
+ Sut_region
+}
+
+Naszazxobijdom_superregion = {
+ Yohbeju_region
+ Sajpoy_region
+ Texubeypir_region
+ Daklafso_region
+}
+
+Yijaz_superregion = {
+ Yettego_region
+ Vovebva_region
+ Jokozavfumev_region
+ Gawfewqokmey_region
+}
+
+Qucwof_superregion = {
+ Zequrjipew_region
+ Yaqso_region
+ Yipep_region
+}
+
+Wirreneb_superregion = {
+ Juysa_region
+ Nuqixeslu_region
+ Dive_region
+ Neqmeke_region
+}
+
+Bilpel_superregion = {
+ Yagiwewcod_region
+ Ze_region
+ Yomigvi_region
+ Tutaraki_region
+ Yegopbotozhih_region
+}
+
+Guzramxivcu_superregion = {
+ Qonje_region
+ Bartu_region
+ Xawezgoxqov_region
+ Kajboqla_region
+ Xipdahaq_region
+}
+
+Jovu_superregion = {
+ Bocnowow_region
+ Hiwezsuwoj_region
+ Daqu_region
+ Fantumagvo_region
+}
+
+Rala_superregion = {
+ Mijtovec_region
+ Qeywipwo_region
+ Kiwebatpocland_region
+}
+
+Sutrefa_superregion = {
+ Kevogkiye_region
+ Hetapak_region
+ Fozkonim_region
+ Yijuge_region
+ Kexa_region
+}
+
+Runogsuce_superregion = {
+ Wefakso_region
+ Tinxaxolu_region
+ Purufya_region
+}
+
+Hiyin_superregion = {
+ Nimbak_region
+ Dukawnep_region
+ Pobfokukuh_region
+ Fadgeyu_region
+ Serujbo_region
+}
+
+Wuri_superregion = {
+ Dag_region
+ Qenjeji_region
+ Pufpunzate_region
+}
+
+Yefrivmag_superregion = {
+ Zuvdejnaxland_region
+ Fokinmex_region
+ Wafetofbedfabland_region
+ Dezo_region
+ Lepfatcic_region
+}
+
+Buqazijtaz_superregion = {
+ Cisaclo_region
+ Lohdezduli_region
+ Viyoktaland_region
+ Gabokepto_region
+}
+
+Fitawacepo_superregion = {
+ Vogaq_region
+ Xehigidja_region
+ Lunantu_region
+ Cugwetuxiq_region
+}
+
+Rixiyku_superregion = {
+ Sewha_region
+ Cidenil_region
+ Sejikal_region
+ Fitegrotland_region
+ Nukjeldux_region
+}
+
+Fulzohoqu_superregion = {
+ Hejem_region
+ Qotoyip_region
+ Tuwagiculand_region
+}
+
+Fujuve_superregion = {
+ Mufejakidgem_region
+ Hipquze_region
+ Sexartiv_region
+}
+
+Paland_superregion = {
+ Pigisbafzig_region
+ Vuftoxomef_region
+ Buwinjolbu_region
+}
+
+Jodoktim_superregion = {
+ Ziku_region
+ Hikziwgujiqqih_region
+ Wirugjatoqre_region
+ Jibaz_region
+}
+
+Gekvaliwoq_superregion = {
+ Yedho_region
+ Mehtoxe_region
+ Qajhefzaz_region
+ Yordu_region
+ Rayguqowvud_region
+}
+
+Kimwopawmipve_superregion = {
+ Qunza_region
+ Taxiwqujak_region
+ Kuyikcijod_region
+ Ximid_region
+ Sevjupkid_region
+}
+
+Sinlevgemubyux_superregion = {
+ Cakubcopej_region
+ Mu_region
+ Kataclo_region
+ Rukexe_region
+}
+
+Qipigzufxoland_superregion = {
+ Nayjaji_region
+ Ya_region
+ Reyilyoxe_region
+ Jighatqo_region
+}
+
+Soseqzewow_superregion = {
+ Nufqayneland_region
+ Veyocbiy_region
+ Zobu_region
+ Socebogol_region
+ Jizmewzocu_region
+}
+
+Sohurit_superregion = {
+ Tozmik_region
+ Bezuy_region
+ Vedifvi_region
+ Xe_region
+}
+
+Runatigsi_superregion = {
+ Wucfo_region
+ Nezsixanul_region
+ Licoheyland_region
+}
+
+Zalwitohbezju_superregion = {
+ Puluggek_region
+ Musconaco_region
+ Tepba_region
+ Geqir_region
+}
+
+Sonfivom_superregion = {
+ Leg_region
+ Zofwiryoqdo_region
+ Pelberpuh_region
+}
+
+Dawoctixle_superregion = {
+ Modubuland_region
+ Zuxudjib_region
+ Lazicged_region
+ Dot_region
+}
+
+Xodlunvufop_superregion = {
+ Zirwazhekzol_region
+ Limcof_region
+ Xitay_region
+ Buqerem_region
+}
+
+Bujqalhakoh_superregion = {
+ Yijpez_region
+ Ziqsipqij_region
+ Coqvunguk_region
+}
+
+Jilwicexqu_superregion = {
+ Yosfo_region
+ Vawimiwland_region
+ Guqibiy_region
+}
+
+Zodvul_superregion = {
+ Qiqji_region
+ Ziccohu_region
+ Deg_region
+}
+
+Fulger_superregion = {
+ Gom_region
+ Zeyreyibgo_region
+ Gogtibirbegel_region
+}
+
+Yuldi_superregion = {
+ Faqeqa_region
+ Tilcagub_region
+ Komine_region
+}
+
+Sihuseyyo_superregion = {
+ Wiwuywidland_region
+ Wulom_region
+ Fiv_region
+ Buxlostinat_region
+}
+
+Doliland_superregion = {
+ Memam_region
+ Rumgabnosayhoj_region
+ Jinliba_region
+}
+
+Qopifwu_superregion = {
+ Homerze_region
+ Pixsudhumland_region
+ Kimaland_region
+ Cedbone_region
+}
+
+Faxezevo_superregion = {
+ Hijoyeyji_region
+ Nihateba_region
+ Rezadposboj_region
+ Seru_region
+ Fa_region
+}
+
+Zaya_superregion = {
+ Vumipetek_region
+ Pozqoha_region
+ Buxafi_region
+ Pohepo_region
+}
+
